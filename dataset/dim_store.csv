@@ -1,0 +1,1201 @@
+store_key,store_name,city,state
+1,ValueMart Sirsa,Sirsa,Punjab
+2,UrbanMart Bathinda,Bathinda,Maharashtra
+3,Nova Store Raichur,Raichur,Karnataka
+4,Nova Store Ramgarh,Ramgarh,Gujarat
+5,UrbanMart Mirzapur,Mirzapur,Rajasthan
+6,Nova Store Kota,Kota,Maharashtra
+7,ValueMart Gwalior,Gwalior,Rajasthan
+8,FreshBasket Miryalaguda,Miryalaguda,Punjab
+9,FreshBasket Bidhannagar,Bidhannagar,Punjab
+10,UrbanMart Berhampur,Berhampur,Rajasthan
+11,FreshBasket Miryalaguda,Miryalaguda,Delhi
+12,Prime Retail Khora ,Khora ,Maharashtra
+13,UrbanMart Vijayawada,Vijayawada,Karnataka
+14,ValueMart Davanagere,Davanagere,Delhi
+15,FreshBasket Saharanpur,Saharanpur,Karnataka
+16,Nova Store Madhyamgram,Madhyamgram,Gujarat
+17,ValueMart Jabalpur,Jabalpur,Punjab
+18,Nova Store Chittoor,Chittoor,Rajasthan
+19,ValueMart Rewa,Rewa,Maharashtra
+20,Prime Retail Saharsa,Saharsa,Maharashtra
+21,ValueMart Katihar,Katihar,Karnataka
+22,UrbanMart Bally,Bally,Punjab
+23,ValueMart Kharagpur,Kharagpur,Rajasthan
+24,UrbanMart Hyderabad,Hyderabad,Rajasthan
+25,FreshBasket Guna,Guna,Gujarat
+26,Prime Retail Silchar,Silchar,Rajasthan
+27,ValueMart Hazaribagh,Hazaribagh,Maharashtra
+28,FreshBasket Surat,Surat,Gujarat
+29,Nova Store Pallavaram,Pallavaram,Karnataka
+30,FreshBasket Naihati,Naihati,Gujarat
+31,FreshBasket Nagpur,Nagpur,Gujarat
+32,ValueMart Pali,Pali,Maharashtra
+33,ValueMart Baranagar,Baranagar,Maharashtra
+34,FreshBasket Chapra,Chapra,Maharashtra
+35,ValueMart Malda,Malda,Gujarat
+36,FreshBasket Suryapet,Suryapet,Rajasthan
+37,Nova Store Hapur,Hapur,Rajasthan
+38,FreshBasket Pali,Pali,Gujarat
+39,Prime Retail Bhagalpur,Bhagalpur,Punjab
+40,UrbanMart Deoghar,Deoghar,Punjab
+41,ValueMart Giridih,Giridih,Gujarat
+42,Prime Retail Tadepalligudem,Tadepalligudem,Karnataka
+43,UrbanMart Sikar,Sikar,Delhi
+44,UrbanMart Barasat,Barasat,Karnataka
+45,FreshBasket Gaya,Gaya,Gujarat
+46,FreshBasket Nellore,Nellore,Maharashtra
+47,Nova Store Dehradun,Dehradun,Maharashtra
+48,Prime Retail Bhopal,Bhopal,Karnataka
+49,Nova Store Tezpur,Tezpur,Gujarat
+50,ValueMart Saharanpur,Saharanpur,Rajasthan
+51,Nova Store Bongaigaon,Bongaigaon,Maharashtra
+52,UrbanMart Suryapet,Suryapet,Punjab
+53,FreshBasket Orai,Orai,Karnataka
+54,ValueMart Madhyamgram,Madhyamgram,Karnataka
+55,FreshBasket Imphal,Imphal,Delhi
+56,FreshBasket Varanasi,Varanasi,Maharashtra
+57,ValueMart Rourkela,Rourkela,Delhi
+58,ValueMart Arrah,Arrah,Karnataka
+59,FreshBasket Bhalswa Jahangir Pur,Bhalswa Jahangir Pur,Maharashtra
+60,Prime Retail Vasai-Virar,Vasai-Virar,Maharashtra
+61,FreshBasket Tenali,Tenali,Punjab
+62,UrbanMart Ambarnath,Ambarnath,Maharashtra
+63,UrbanMart Phagwara,Phagwara,Gujarat
+64,Prime Retail Ichalkaranji,Ichalkaranji,Rajasthan
+65,Prime Retail Cuttack,Cuttack,Punjab
+66,Nova Store Thanjavur,Thanjavur,Delhi
+67,ValueMart Imphal,Imphal,Rajasthan
+68,FreshBasket Ahmedabad,Ahmedabad,Gujarat
+69,UrbanMart Rajkot,Rajkot,Karnataka
+70,UrbanMart Bihar Sharif,Bihar Sharif,Maharashtra
+71,UrbanMart Kharagpur,Kharagpur,Punjab
+72,Nova Store Dewas,Dewas,Gujarat
+73,Nova Store Kamarhati,Kamarhati,Punjab
+74,UrbanMart Mirzapur,Mirzapur,Rajasthan
+75,UrbanMart Guwahati,Guwahati,Gujarat
+76,Prime Retail Raiganj,Raiganj,Punjab
+77,ValueMart Kirari Suleman Nagar,Kirari Suleman Nagar,Maharashtra
+78,ValueMart Danapur,Danapur,Maharashtra
+79,FreshBasket Visakhapatnam,Visakhapatnam,Karnataka
+80,ValueMart Arrah,Arrah,Gujarat
+81,Prime Retail Kamarhati,Kamarhati,Rajasthan
+82,FreshBasket Warangal,Warangal,Gujarat
+83,FreshBasket Hazaribagh,Hazaribagh,Maharashtra
+84,Nova Store Buxar,Buxar,Rajasthan
+85,UrbanMart Phusro,Phusro,Delhi
+86,Nova Store Bongaigaon,Bongaigaon,Maharashtra
+87,Prime Retail Sangli-Miraj & Kupwad,Sangli-Miraj & Kupwad,Rajasthan
+88,UrbanMart Amritsar,Amritsar,Delhi
+89,Nova Store Dharmavaram,Dharmavaram,Delhi
+90,FreshBasket Vijayanagaram,Vijayanagaram,Delhi
+91,ValueMart Bhopal,Bhopal,Gujarat
+92,Nova Store Kavali,Kavali,Punjab
+93,ValueMart Bareilly,Bareilly,Maharashtra
+94,FreshBasket Buxar,Buxar,Karnataka
+95,UrbanMart Dindigul,Dindigul,Maharashtra
+96,UrbanMart Tinsukia,Tinsukia,Rajasthan
+97,FreshBasket Kollam,Kollam,Karnataka
+98,UrbanMart Bally,Bally,Delhi
+99,FreshBasket Agra,Agra,Gujarat
+100,ValueMart Salem,Salem,Delhi
+101,ValueMart Alwar,Alwar,Karnataka
+102,ValueMart Surendranagar Dudhrej,Surendranagar Dudhrej,Karnataka
+103,UrbanMart Chapra,Chapra,Maharashtra
+104,Nova Store Srinagar,Srinagar,Karnataka
+105,UrbanMart Mahbubnagar,Mahbubnagar,Rajasthan
+106,Prime Retail Motihari,Motihari,Punjab
+107,Prime Retail Tinsukia,Tinsukia,Delhi
+108,UrbanMart Begusarai,Begusarai,Rajasthan
+109,ValueMart Shivpuri,Shivpuri,Rajasthan
+110,Nova Store Begusarai,Begusarai,Gujarat
+111,ValueMart Surat,Surat,Maharashtra
+112,UrbanMart Morbi,Morbi,Punjab
+113,Prime Retail Bongaigaon,Bongaigaon,Rajasthan
+114,Prime Retail Bokaro,Bokaro,Karnataka
+115,ValueMart Alappuzha,Alappuzha,Karnataka
+116,ValueMart Hospet,Hospet,Punjab
+117,FreshBasket Singrauli,Singrauli,Gujarat
+118,FreshBasket Nagpur,Nagpur,Maharashtra
+119,Prime Retail Bongaigaon,Bongaigaon,Karnataka
+120,UrbanMart Serampore,Serampore,Maharashtra
+121,ValueMart Motihari,Motihari,Gujarat
+122,Nova Store Anand,Anand,Punjab
+123,UrbanMart Tirupati,Tirupati,Punjab
+124,FreshBasket Bellary,Bellary,Karnataka
+125,UrbanMart Kanpur,Kanpur,Punjab
+126,Prime Retail Bhubaneswar,Bhubaneswar,Gujarat
+127,ValueMart Bhilai,Bhilai,Karnataka
+128,FreshBasket Gandhidham,Gandhidham,Karnataka
+129,Nova Store Ahmednagar,Ahmednagar,Maharashtra
+130,Prime Retail Nangloi Jat,Nangloi Jat,Gujarat
+131,ValueMart Sultan Pur Majra,Sultan Pur Majra,Rajasthan
+132,ValueMart Noida,Noida,Karnataka
+133,ValueMart Mira-Bhayandar,Mira-Bhayandar,Maharashtra
+134,Prime Retail Bellary,Bellary,Maharashtra
+135,ValueMart Phusro,Phusro,Gujarat
+136,UrbanMart Pudukkottai,Pudukkottai,Maharashtra
+137,UrbanMart Karnal,Karnal,Delhi
+138,Prime Retail Jamshedpur,Jamshedpur,Gujarat
+139,UrbanMart Durgapur,Durgapur,Delhi
+140,Prime Retail Bangalore,Bangalore,Gujarat
+141,UrbanMart Pune,Pune,Punjab
+142,FreshBasket Jalna,Jalna,Rajasthan
+143,Nova Store Tadepalligudem,Tadepalligudem,Gujarat
+144,Nova Store Thane,Thane,Delhi
+145,UrbanMart Anantapuram,Anantapuram,Gujarat
+146,UrbanMart Imphal,Imphal,Gujarat
+147,FreshBasket Sri Ganganagar,Sri Ganganagar,Delhi
+148,FreshBasket Bathinda,Bathinda,Maharashtra
+149,FreshBasket Aizawl,Aizawl,Gujarat
+150,ValueMart Pimpri-Chinchwad,Pimpri-Chinchwad,Punjab
+151,ValueMart Amritsar,Amritsar,Rajasthan
+152,ValueMart Hindupur,Hindupur,Delhi
+153,UrbanMart Kozhikode,Kozhikode,Maharashtra
+154,UrbanMart Chittoor,Chittoor,Gujarat
+155,UrbanMart Erode,Erode,Karnataka
+156,Nova Store Dhule,Dhule,Maharashtra
+157,Nova Store Noida,Noida,Delhi
+158,Prime Retail Akola,Akola,Karnataka
+159,UrbanMart Bettiah,Bettiah,Maharashtra
+160,Nova Store Kirari Suleman Nagar,Kirari Suleman Nagar,Karnataka
+161,Nova Store Gorakhpur,Gorakhpur,Rajasthan
+162,ValueMart Bangalore,Bangalore,Karnataka
+163,FreshBasket Mysore,Mysore,Maharashtra
+164,UrbanMart Chittoor,Chittoor,Delhi
+165,ValueMart Srinagar,Srinagar,Delhi
+166,UrbanMart Ranchi,Ranchi,Punjab
+167,ValueMart Hazaribagh,Hazaribagh,Punjab
+168,ValueMart Eluru,Eluru,Gujarat
+169,FreshBasket Tiruchirappalli,Tiruchirappalli,Maharashtra
+170,UrbanMart Bhiwandi,Bhiwandi,Rajasthan
+171,FreshBasket Avadi,Avadi,Punjab
+172,FreshBasket Sonipat,Sonipat,Delhi
+173,Nova Store Secunderabad,Secunderabad,Punjab
+174,Nova Store Belgaum,Belgaum,Karnataka
+175,UrbanMart Dhule,Dhule,Rajasthan
+176,FreshBasket Muzaffarpur,Muzaffarpur,Delhi
+177,ValueMart Hazaribagh,Hazaribagh,Punjab
+178,FreshBasket Tiruppur,Tiruppur,Maharashtra
+179,FreshBasket Bally,Bally,Gujarat
+180,Nova Store Gandhinagar,Gandhinagar,Karnataka
+181,UrbanMart Unnao,Unnao,Gujarat
+182,ValueMart Tumkur,Tumkur,Delhi
+183,UrbanMart Haldia,Haldia,Gujarat
+184,FreshBasket Jehanabad,Jehanabad,Maharashtra
+185,ValueMart Rourkela,Rourkela,Delhi
+186,UrbanMart Bilaspur,Bilaspur,Maharashtra
+187,ValueMart Khora ,Khora ,Punjab
+188,Prime Retail Gudivada,Gudivada,Gujarat
+189,Prime Retail Alwar,Alwar,Gujarat
+190,UrbanMart Jabalpur,Jabalpur,Gujarat
+191,UrbanMart Karaikudi,Karaikudi,Punjab
+192,Nova Store Latur,Latur,Delhi
+193,Prime Retail Bidhannagar,Bidhannagar,Punjab
+194,Nova Store Jodhpur,Jodhpur,Rajasthan
+195,Nova Store Moradabad,Moradabad,Maharashtra
+196,Nova Store Berhampore,Berhampore,Karnataka
+197,Prime Retail Kishanganj,Kishanganj,Punjab
+198,Prime Retail Satna,Satna,Maharashtra
+199,Nova Store Siwan,Siwan,Rajasthan
+200,FreshBasket Kharagpur,Kharagpur,Maharashtra
+201,UrbanMart Pondicherry,Pondicherry,Gujarat
+202,FreshBasket Nadiad,Nadiad,Karnataka
+203,ValueMart Bulandshahr,Bulandshahr,Rajasthan
+204,Nova Store Srinagar,Srinagar,Rajasthan
+205,FreshBasket Kottayam,Kottayam,Delhi
+206,UrbanMart Mau,Mau,Gujarat
+207,UrbanMart Chapra,Chapra,Rajasthan
+208,Nova Store Tiruvottiyur,Tiruvottiyur,Maharashtra
+209,ValueMart Bidar,Bidar,Maharashtra
+210,FreshBasket Karaikudi,Karaikudi,Delhi
+211,UrbanMart Shivpuri,Shivpuri,Karnataka
+212,Nova Store Visakhapatnam,Visakhapatnam,Karnataka
+213,FreshBasket Jalgaon,Jalgaon,Delhi
+214,ValueMart Kharagpur,Kharagpur,Rajasthan
+215,ValueMart Malegaon,Malegaon,Punjab
+216,Nova Store Ahmedabad,Ahmedabad,Maharashtra
+217,Prime Retail Panihati,Panihati,Karnataka
+218,FreshBasket Berhampur,Berhampur,Delhi
+219,Prime Retail Mau,Mau,Delhi
+220,UrbanMart Karawal Nagar,Karawal Nagar,Maharashtra
+221,Nova Store Bhusawal,Bhusawal,Rajasthan
+222,ValueMart Raebareli,Raebareli,Punjab
+223,UrbanMart Madhyamgram,Madhyamgram,Gujarat
+224,Nova Store Jamalpur,Jamalpur,Delhi
+225,Nova Store Sirsa,Sirsa,Gujarat
+226,FreshBasket Cuttack,Cuttack,Delhi
+227,Prime Retail Gangtok,Gangtok,Gujarat
+228,ValueMart Bellary,Bellary,Gujarat
+229,UrbanMart Serampore,Serampore,Maharashtra
+230,FreshBasket Durg,Durg,Delhi
+231,UrbanMart Delhi,Delhi,Maharashtra
+232,UrbanMart Jaipur,Jaipur,Rajasthan
+233,Nova Store Miryalaguda,Miryalaguda,Karnataka
+234,FreshBasket Baranagar,Baranagar,Punjab
+235,UrbanMart Bangalore,Bangalore,Maharashtra
+236,Prime Retail Kadapa,Kadapa,Maharashtra
+237,FreshBasket Coimbatore,Coimbatore,Karnataka
+238,FreshBasket Morbi,Morbi,Punjab
+239,UrbanMart Kozhikode,Kozhikode,Gujarat
+240,ValueMart Allahabad,Allahabad,Punjab
+241,UrbanMart Thanjavur,Thanjavur,Punjab
+242,Prime Retail Thiruvananthapuram,Thiruvananthapuram,Delhi
+243,UrbanMart Bellary,Bellary,Gujarat
+244,ValueMart Aizawl,Aizawl,Punjab
+245,Prime Retail Patna,Patna,Gujarat
+246,FreshBasket Bhubaneswar,Bhubaneswar,Punjab
+247,Nova Store Uluberia,Uluberia,Delhi
+248,Prime Retail Srinagar,Srinagar,Gujarat
+249,FreshBasket Nagpur,Nagpur,Karnataka
+250,Prime Retail Shimoga,Shimoga,Punjab
+251,Nova Store Panchkula,Panchkula,Gujarat
+252,FreshBasket Hyderabad,Hyderabad,Maharashtra
+253,FreshBasket Unnao,Unnao,Karnataka
+254,Prime Retail Anand,Anand,Punjab
+255,Prime Retail Hazaribagh,Hazaribagh,Gujarat
+256,Nova Store Ambattur,Ambattur,Punjab
+257,UrbanMart Baranagar,Baranagar,Maharashtra
+258,FreshBasket Bihar Sharif,Bihar Sharif,Gujarat
+259,Prime Retail Bhopal,Bhopal,Punjab
+260,FreshBasket Kharagpur,Kharagpur,Delhi
+261,Nova Store Amroha,Amroha,Karnataka
+262,UrbanMart Kanpur,Kanpur,Punjab
+263,Prime Retail Hyderabad,Hyderabad,Delhi
+264,ValueMart Bathinda,Bathinda,Karnataka
+265,UrbanMart Raichur,Raichur,Rajasthan
+266,UrbanMart Bulandshahr,Bulandshahr,Rajasthan
+267,Nova Store Kamarhati,Kamarhati,Gujarat
+268,ValueMart Ajmer,Ajmer,Gujarat
+269,ValueMart Adoni,Adoni,Maharashtra
+270,FreshBasket Narasaraopet,Narasaraopet,Gujarat
+271,Nova Store Guntakal,Guntakal,Punjab
+272,Prime Retail Saharsa,Saharsa,Rajasthan
+273,ValueMart Satna,Satna,Maharashtra
+274,Nova Store Pallavaram,Pallavaram,Maharashtra
+275,UrbanMart Jamalpur,Jamalpur,Rajasthan
+276,Prime Retail South Dumdum,South Dumdum,Gujarat
+277,FreshBasket Madurai,Madurai,Punjab
+278,Nova Store Kulti,Kulti,Karnataka
+279,FreshBasket Giridih,Giridih,Punjab
+280,UrbanMart Sri Ganganagar,Sri Ganganagar,Karnataka
+281,UrbanMart Kottayam,Kottayam,Maharashtra
+282,ValueMart Gwalior,Gwalior,Rajasthan
+283,UrbanMart Bihar Sharif,Bihar Sharif,Punjab
+284,UrbanMart Guntur,Guntur,Delhi
+285,Nova Store Meerut,Meerut,Karnataka
+286,Nova Store Sambalpur,Sambalpur,Rajasthan
+287,UrbanMart Ongole,Ongole,Karnataka
+288,ValueMart Guwahati,Guwahati,Karnataka
+289,Nova Store Mira-Bhayandar,Mira-Bhayandar,Karnataka
+290,Nova Store Bhusawal,Bhusawal,Punjab
+291,Prime Retail Panvel,Panvel,Punjab
+292,Prime Retail Gaya,Gaya,Delhi
+293,Nova Store Ambala,Ambala,Punjab
+294,UrbanMart Karimnagar,Karimnagar,Karnataka
+295,Nova Store Bathinda,Bathinda,Delhi
+296,Prime Retail Berhampur,Berhampur,Rajasthan
+297,ValueMart Muzaffarpur,Muzaffarpur,Punjab
+298,ValueMart Ambattur,Ambattur,Delhi
+299,UrbanMart Katni,Katni,Delhi
+300,ValueMart Tezpur,Tezpur,Maharashtra
+301,FreshBasket Guntakal,Guntakal,Maharashtra
+302,FreshBasket Faridabad,Faridabad,Punjab
+303,Nova Store Dehradun,Dehradun,Rajasthan
+304,Nova Store Chandrapur,Chandrapur,Maharashtra
+305,Prime Retail Hosur,Hosur,Karnataka
+306,ValueMart Bokaro,Bokaro,Gujarat
+307,UrbanMart Coimbatore,Coimbatore,Rajasthan
+308,Nova Store Raurkela Industrial Township,Raurkela Industrial Township,Punjab
+309,UrbanMart Morbi,Morbi,Maharashtra
+310,Prime Retail Baranagar,Baranagar,Karnataka
+311,Nova Store Medininagar,Medininagar,Gujarat
+312,UrbanMart Rajahmundry,Rajahmundry,Punjab
+313,ValueMart Mau,Mau,Karnataka
+314,Prime Retail Firozabad,Firozabad,Rajasthan
+315,Prime Retail Saharanpur,Saharanpur,Karnataka
+316,UrbanMart Moradabad,Moradabad,Maharashtra
+317,FreshBasket Mumbai,Mumbai,Punjab
+318,Nova Store Salem,Salem,Maharashtra
+319,Nova Store Bongaigaon,Bongaigaon,Rajasthan
+320,Prime Retail Serampore,Serampore,Rajasthan
+321,Prime Retail Shimla,Shimla,Punjab
+322,UrbanMart Raiganj,Raiganj,Gujarat
+323,ValueMart Imphal,Imphal,Punjab
+324,ValueMart Jammu,Jammu,Maharashtra
+325,Nova Store Bidhannagar,Bidhannagar,Punjab
+326,Nova Store Kurnool,Kurnool,Rajasthan
+327,Nova Store Gorakhpur,Gorakhpur,Karnataka
+328,FreshBasket Bhiwani,Bhiwani,Delhi
+329,UrbanMart Mahbubnagar,Mahbubnagar,Punjab
+330,UrbanMart Orai,Orai,Karnataka
+331,UrbanMart Medininagar,Medininagar,Gujarat
+332,UrbanMart Thrissur,Thrissur,Karnataka
+333,ValueMart Erode,Erode,Gujarat
+334,Prime Retail Kakinada,Kakinada,Maharashtra
+335,ValueMart Sagar,Sagar,Gujarat
+336,Nova Store Aizawl,Aizawl,Delhi
+337,FreshBasket Guntur,Guntur,Karnataka
+338,Nova Store Mango,Mango,Karnataka
+339,ValueMart Noida,Noida,Gujarat
+340,UrbanMart Solapur,Solapur,Karnataka
+341,ValueMart Faridabad,Faridabad,Karnataka
+342,UrbanMart Raurkela Industrial Township,Raurkela Industrial Township,Delhi
+343,Prime Retail Shivpuri,Shivpuri,Punjab
+344,FreshBasket Hospet,Hospet,Maharashtra
+345,FreshBasket Suryapet,Suryapet,Delhi
+346,UrbanMart Purnia,Purnia,Gujarat
+347,UrbanMart Deoghar,Deoghar,Karnataka
+348,ValueMart Bijapur,Bijapur,Maharashtra
+349,ValueMart Loni,Loni,Rajasthan
+350,ValueMart Bikaner,Bikaner,Maharashtra
+351,UrbanMart Bettiah,Bettiah,Karnataka
+352,FreshBasket Vellore,Vellore,Delhi
+353,Prime Retail Sri Ganganagar,Sri Ganganagar,Rajasthan
+354,UrbanMart Narasaraopet,Narasaraopet,Karnataka
+355,ValueMart Mysore,Mysore,Rajasthan
+356,Nova Store Mathura,Mathura,Punjab
+357,UrbanMart Bikaner,Bikaner,Maharashtra
+358,Nova Store Katihar,Katihar,Karnataka
+359,FreshBasket Nagaon,Nagaon,Rajasthan
+360,UrbanMart Hospet,Hospet,Gujarat
+361,FreshBasket Kollam,Kollam,Gujarat
+362,ValueMart Aurangabad,Aurangabad,Gujarat
+363,FreshBasket Unnao,Unnao,Karnataka
+364,Nova Store Firozabad,Firozabad,Punjab
+365,UrbanMart Raichur,Raichur,Gujarat
+366,Nova Store Bhubaneswar,Bhubaneswar,Rajasthan
+367,Prime Retail Bhiwandi,Bhiwandi,Karnataka
+368,UrbanMart Aurangabad,Aurangabad,Maharashtra
+369,ValueMart Phusro,Phusro,Maharashtra
+370,Nova Store Raebareli,Raebareli,Maharashtra
+371,Prime Retail Karaikudi,Karaikudi,Punjab
+372,ValueMart Unnao,Unnao,Maharashtra
+373,UrbanMart Hyderabad,Hyderabad,Karnataka
+374,ValueMart North Dumdum,North Dumdum,Rajasthan
+375,Prime Retail Pallavaram,Pallavaram,Delhi
+376,Nova Store Kollam,Kollam,Gujarat
+377,FreshBasket Darbhanga,Darbhanga,Delhi
+378,UrbanMart Indore,Indore,Karnataka
+379,Prime Retail Salem,Salem,Karnataka
+380,FreshBasket Gorakhpur,Gorakhpur,Maharashtra
+381,ValueMart Raipur,Raipur,Punjab
+382,Nova Store Gulbarga,Gulbarga,Maharashtra
+383,Nova Store Hajipur,Hajipur,Gujarat
+384,FreshBasket Siliguri,Siliguri,Rajasthan
+385,Nova Store Ujjain,Ujjain,Rajasthan
+386,Nova Store Nadiad,Nadiad,Maharashtra
+387,ValueMart Kalyan-Dombivli,Kalyan-Dombivli,Maharashtra
+388,Nova Store Jorhat,Jorhat,Delhi
+389,Prime Retail Bhiwandi,Bhiwandi,Rajasthan
+390,Nova Store Gwalior,Gwalior,Rajasthan
+391,FreshBasket Ranchi,Ranchi,Delhi
+392,Prime Retail Nagpur,Nagpur,Karnataka
+393,ValueMart Dehradun,Dehradun,Rajasthan
+394,FreshBasket Berhampore,Berhampore,Rajasthan
+395,Nova Store Madhyamgram,Madhyamgram,Gujarat
+396,ValueMart Moradabad,Moradabad,Punjab
+397,Prime Retail Kamarhati,Kamarhati,Maharashtra
+398,Prime Retail Udaipur,Udaipur,Delhi
+399,Nova Store Dhule,Dhule,Delhi
+400,Nova Store Deoghar,Deoghar,Gujarat
+401,Prime Retail Kirari Suleman Nagar,Kirari Suleman Nagar,Rajasthan
+402,Nova Store Mira-Bhayandar,Mira-Bhayandar,Delhi
+403,UrbanMart Rampur,Rampur,Gujarat
+404,Nova Store Bilaspur,Bilaspur,Punjab
+405,Prime Retail Bhavnagar,Bhavnagar,Punjab
+406,Prime Retail Ramgarh,Ramgarh,Punjab
+407,UrbanMart Bhiwani,Bhiwani,Maharashtra
+408,ValueMart Muzaffarpur,Muzaffarpur,Karnataka
+409,Nova Store Aizawl,Aizawl,Maharashtra
+410,FreshBasket Dibrugarh,Dibrugarh,Punjab
+411,ValueMart Rohtak,Rohtak,Rajasthan
+412,FreshBasket Panihati,Panihati,Karnataka
+413,Nova Store Gwalior,Gwalior,Gujarat
+414,FreshBasket Siliguri,Siliguri,Maharashtra
+415,FreshBasket Hyderabad,Hyderabad,Delhi
+416,Prime Retail Akola,Akola,Maharashtra
+417,Nova Store Gangtok,Gangtok,Maharashtra
+418,ValueMart Alwar,Alwar,Karnataka
+419,Prime Retail Udupi,Udupi,Delhi
+420,Prime Retail Bhiwani,Bhiwani,Delhi
+421,FreshBasket Aurangabad,Aurangabad,Maharashtra
+422,ValueMart Jamshedpur,Jamshedpur,Gujarat
+423,ValueMart Ambala,Ambala,Punjab
+424,Prime Retail Tiruppur,Tiruppur,Gujarat
+425,FreshBasket Panchkula,Panchkula,Gujarat
+426,Prime Retail Panvel,Panvel,Punjab
+427,ValueMart Panchkula,Panchkula,Delhi
+428,Nova Store Sasaram,Sasaram,Punjab
+429,Nova Store Ongole,Ongole,Karnataka
+430,Nova Store Rourkela,Rourkela,Delhi
+431,ValueMart Secunderabad,Secunderabad,Maharashtra
+432,FreshBasket Sultan Pur Majra,Sultan Pur Majra,Maharashtra
+433,ValueMart Ghaziabad,Ghaziabad,Delhi
+434,UrbanMart Kamarhati,Kamarhati,Delhi
+435,ValueMart Ambattur,Ambattur,Punjab
+436,ValueMart Mango,Mango,Delhi
+437,FreshBasket Rampur,Rampur,Gujarat
+438,Nova Store Kadapa,Kadapa,Punjab
+439,UrbanMart Bikaner,Bikaner,Punjab
+440,UrbanMart Jalgaon,Jalgaon,Gujarat
+441,Nova Store Jamalpur,Jamalpur,Gujarat
+442,UrbanMart Gorakhpur,Gorakhpur,Delhi
+443,Prime Retail Howrah,Howrah,Rajasthan
+444,FreshBasket Raipur,Raipur,Rajasthan
+445,FreshBasket Loni,Loni,Rajasthan
+446,Prime Retail Gurgaon,Gurgaon,Punjab
+447,UrbanMart Bellary,Bellary,Gujarat
+448,FreshBasket Khora ,Khora ,Rajasthan
+449,Prime Retail Kolkata,Kolkata,Gujarat
+450,Prime Retail Indore,Indore,Punjab
+451,Prime Retail Bijapur,Bijapur,Gujarat
+452,Nova Store Bhind,Bhind,Delhi
+453,Prime Retail Nanded,Nanded,Delhi
+454,ValueMart Kollam,Kollam,Rajasthan
+455,FreshBasket Bhavnagar,Bhavnagar,Gujarat
+456,Nova Store Baranagar,Baranagar,Rajasthan
+457,Prime Retail Panipat,Panipat,Gujarat
+458,ValueMart Bardhaman,Bardhaman,Gujarat
+459,UrbanMart Madhyamgram,Madhyamgram,Gujarat
+460,Nova Store Ajmer,Ajmer,Delhi
+461,ValueMart Noida,Noida,Rajasthan
+462,ValueMart Imphal,Imphal,Punjab
+463,Prime Retail Khandwa,Khandwa,Delhi
+464,UrbanMart Bilaspur,Bilaspur,Karnataka
+465,Nova Store Vadodara,Vadodara,Delhi
+466,Prime Retail Kochi,Kochi,Rajasthan
+467,UrbanMart Berhampore,Berhampore,Karnataka
+468,FreshBasket Dhule,Dhule,Maharashtra
+469,Nova Store Katihar,Katihar,Karnataka
+470,FreshBasket Amroha,Amroha,Gujarat
+471,FreshBasket Narasaraopet,Narasaraopet,Karnataka
+472,Prime Retail Avadi,Avadi,Maharashtra
+473,UrbanMart Jammu,Jammu,Gujarat
+474,FreshBasket Jalna,Jalna,Delhi
+475,Nova Store Karawal Nagar,Karawal Nagar,Rajasthan
+476,Prime Retail Agartala,Agartala,Gujarat
+477,Prime Retail Silchar,Silchar,Gujarat
+478,ValueMart Davanagere,Davanagere,Maharashtra
+479,Nova Store Amroha,Amroha,Karnataka
+480,ValueMart Nagaon,Nagaon,Gujarat
+481,ValueMart Haldia,Haldia,Karnataka
+482,FreshBasket Dhanbad,Dhanbad,Karnataka
+483,ValueMart Danapur,Danapur,Rajasthan
+484,UrbanMart Agartala,Agartala,Gujarat
+485,UrbanMart Jalgaon,Jalgaon,Karnataka
+486,Prime Retail Mumbai,Mumbai,Maharashtra
+487,FreshBasket Ghaziabad,Ghaziabad,Rajasthan
+488,Nova Store Raurkela Industrial Township,Raurkela Industrial Township,Delhi
+489,FreshBasket Pimpri-Chinchwad,Pimpri-Chinchwad,Punjab
+490,UrbanMart Madhyamgram,Madhyamgram,Delhi
+491,Prime Retail Bhind,Bhind,Karnataka
+492,Nova Store Rajpur Sonarpur,Rajpur Sonarpur,Maharashtra
+493,Nova Store Noida,Noida,Maharashtra
+494,Prime Retail Karaikudi,Karaikudi,Gujarat
+495,Prime Retail Bhimavaram,Bhimavaram,Punjab
+496,Prime Retail Miryalaguda,Miryalaguda,Delhi
+497,Nova Store Korba,Korba,Maharashtra
+498,FreshBasket Vellore,Vellore,Maharashtra
+499,Nova Store Malda,Malda,Rajasthan
+500,FreshBasket Panihati,Panihati,Rajasthan
+501,Prime Retail Noida,Noida,Punjab
+502,UrbanMart Hyderabad,Hyderabad,Punjab
+503,UrbanMart Howrah,Howrah,Punjab
+504,FreshBasket Hubli–Dharwad,Hubli–Dharwad,Delhi
+505,FreshBasket Miryalaguda,Miryalaguda,Gujarat
+506,FreshBasket Ambarnath,Ambarnath,Punjab
+507,Prime Retail Bangalore,Bangalore,Delhi
+508,FreshBasket Jalna,Jalna,Maharashtra
+509,FreshBasket Morena,Morena,Rajasthan
+510,Nova Store Morbi,Morbi,Rajasthan
+511,FreshBasket Ballia,Ballia,Punjab
+512,Prime Retail Bidar,Bidar,Karnataka
+513,UrbanMart Muzaffarpur,Muzaffarpur,Rajasthan
+514,UrbanMart Sambalpur,Sambalpur,Gujarat
+515,Prime Retail Dewas,Dewas,Punjab
+516,Nova Store Bally,Bally,Karnataka
+517,Nova Store Baranagar,Baranagar,Gujarat
+518,Prime Retail Bhopal,Bhopal,Delhi
+519,Nova Store Morbi,Morbi,Maharashtra
+520,FreshBasket Thanjavur,Thanjavur,Punjab
+521,FreshBasket Pondicherry,Pondicherry,Gujarat
+522,UrbanMart Adoni,Adoni,Punjab
+523,UrbanMart Bidar,Bidar,Gujarat
+524,ValueMart Warangal,Warangal,Delhi
+525,FreshBasket Bokaro,Bokaro,Punjab
+526,UrbanMart Tinsukia,Tinsukia,Rajasthan
+527,FreshBasket Haldia,Haldia,Punjab
+528,ValueMart Kishanganj,Kishanganj,Karnataka
+529,UrbanMart Bulandshahr,Bulandshahr,Rajasthan
+530,Nova Store Kirari Suleman Nagar,Kirari Suleman Nagar,Gujarat
+531,UrbanMart Nandyal,Nandyal,Delhi
+532,ValueMart Guna,Guna,Gujarat
+533,Nova Store Miryalaguda,Miryalaguda,Maharashtra
+534,Nova Store Thane,Thane,Delhi
+535,ValueMart Shimoga,Shimoga,Karnataka
+536,ValueMart Belgaum,Belgaum,Punjab
+537,UrbanMart Udupi,Udupi,Rajasthan
+538,Nova Store Katni,Katni,Rajasthan
+539,Nova Store Rourkela,Rourkela,Punjab
+540,ValueMart Tiruppur,Tiruppur,Gujarat
+541,Nova Store Lucknow,Lucknow,Gujarat
+542,ValueMart Rewa,Rewa,Maharashtra
+543,Nova Store Alwar,Alwar,Maharashtra
+544,ValueMart Bhalswa Jahangir Pur,Bhalswa Jahangir Pur,Gujarat
+545,Prime Retail Farrukhabad,Farrukhabad,Rajasthan
+546,UrbanMart Tezpur,Tezpur,Rajasthan
+547,UrbanMart Latur,Latur,Rajasthan
+548,FreshBasket Kurnool,Kurnool,Delhi
+549,Prime Retail New Delhi,New Delhi,Karnataka
+550,ValueMart Gurgaon,Gurgaon,Punjab
+551,ValueMart Bangalore,Bangalore,Punjab
+552,Nova Store Mango,Mango,Maharashtra
+553,Prime Retail Dindigul,Dindigul,Maharashtra
+554,FreshBasket Allahabad,Allahabad,Punjab
+555,UrbanMart Burhanpur,Burhanpur,Rajasthan
+556,UrbanMart Giridih,Giridih,Gujarat
+557,UrbanMart Tenali,Tenali,Maharashtra
+558,UrbanMart Muzaffarpur,Muzaffarpur,Karnataka
+559,ValueMart Dharmavaram,Dharmavaram,Gujarat
+560,FreshBasket Baranagar,Baranagar,Karnataka
+561,Nova Store Bhatpara,Bhatpara,Delhi
+562,FreshBasket Junagadh,Junagadh,Maharashtra
+563,ValueMart Durg,Durg,Maharashtra
+564,ValueMart Kanpur,Kanpur,Maharashtra
+565,Nova Store Siwan,Siwan,Karnataka
+566,Prime Retail Hospet,Hospet,Delhi
+567,ValueMart Hazaribagh,Hazaribagh,Punjab
+568,ValueMart Jorhat,Jorhat,Punjab
+569,ValueMart Sangli-Miraj & Kupwad,Sangli-Miraj & Kupwad,Rajasthan
+570,Prime Retail Kamarhati,Kamarhati,Punjab
+571,Nova Store Kurnool,Kurnool,Maharashtra
+572,FreshBasket Arrah,Arrah,Rajasthan
+573,Nova Store Miryalaguda,Miryalaguda,Rajasthan
+574,ValueMart Ujjain,Ujjain,Delhi
+575,FreshBasket Jhansi,Jhansi,Punjab
+576,Prime Retail Bardhaman,Bardhaman,Gujarat
+577,UrbanMart Ambarnath,Ambarnath,Rajasthan
+578,ValueMart Mumbai,Mumbai,Maharashtra
+579,UrbanMart Bhavnagar,Bhavnagar,Delhi
+580,Prime Retail Mumbai,Mumbai,Maharashtra
+581,Nova Store Loni,Loni,Punjab
+582,UrbanMart South Dumdum,South Dumdum,Gujarat
+583,Nova Store Moradabad,Moradabad,Karnataka
+584,Nova Store Avadi,Avadi,Karnataka
+585,UrbanMart Ambala,Ambala,Maharashtra
+586,Prime Retail Mathura,Mathura,Gujarat
+587,Prime Retail Varanasi,Varanasi,Delhi
+588,FreshBasket Guna,Guna,Maharashtra
+589,Prime Retail Miryalaguda,Miryalaguda,Maharashtra
+590,Nova Store Bihar Sharif,Bihar Sharif,Maharashtra
+591,Prime Retail Mehsana,Mehsana,Punjab
+592,UrbanMart Bhilai,Bhilai,Rajasthan
+593,UrbanMart Rajahmundry,Rajahmundry,Karnataka
+594,Prime Retail Yamunanagar,Yamunanagar,Punjab
+595,Prime Retail Jamalpur,Jamalpur,Punjab
+596,Prime Retail Guntakal,Guntakal,Delhi
+597,Nova Store Ambattur,Ambattur,Punjab
+598,Nova Store Silchar,Silchar,Delhi
+599,ValueMart Raipur,Raipur,Delhi
+600,Nova Store Deoghar,Deoghar,Maharashtra
+601,ValueMart Dindigul,Dindigul,Karnataka
+602,ValueMart Sambhal,Sambhal,Rajasthan
+603,UrbanMart Ramgarh,Ramgarh,Maharashtra
+604,Nova Store Mirzapur,Mirzapur,Gujarat
+605,Nova Store Etawah,Etawah,Rajasthan
+606,FreshBasket Deoghar,Deoghar,Gujarat
+607,Prime Retail Jhansi,Jhansi,Gujarat
+608,ValueMart Amroha,Amroha,Delhi
+609,FreshBasket Karimnagar,Karimnagar,Punjab
+610,Prime Retail Salem,Salem,Delhi
+611,Prime Retail Vasai-Virar,Vasai-Virar,Maharashtra
+612,ValueMart Bhatpara,Bhatpara,Delhi
+613,Nova Store Bhiwandi,Bhiwandi,Gujarat
+614,ValueMart Bhatpara,Bhatpara,Punjab
+615,Nova Store Hyderabad,Hyderabad,Punjab
+616,ValueMart Raichur,Raichur,Maharashtra
+617,FreshBasket Shahjahanpur,Shahjahanpur,Rajasthan
+618,Nova Store Gwalior,Gwalior,Delhi
+619,UrbanMart Amaravati,Amaravati,Gujarat
+620,UrbanMart Howrah,Howrah,Gujarat
+621,Nova Store Salem,Salem,Gujarat
+622,FreshBasket Bahraich,Bahraich,Rajasthan
+623,Prime Retail Bhind,Bhind,Maharashtra
+624,Prime Retail Navi Mumbai,Navi Mumbai,Rajasthan
+625,Prime Retail Medininagar,Medininagar,Punjab
+626,FreshBasket Chennai,Chennai,Gujarat
+627,Prime Retail Vasai-Virar,Vasai-Virar,Rajasthan
+628,UrbanMart Vellore,Vellore,Rajasthan
+629,Nova Store Hazaribagh,Hazaribagh,Delhi
+630,FreshBasket Belgaum,Belgaum,Gujarat
+631,Nova Store Muzaffarpur,Muzaffarpur,Punjab
+632,FreshBasket Baranagar,Baranagar,Karnataka
+633,Prime Retail Ozhukarai,Ozhukarai,Maharashtra
+634,Nova Store Rewa,Rewa,Karnataka
+635,Nova Store Bhiwani,Bhiwani,Maharashtra
+636,UrbanMart Sagar,Sagar,Punjab
+637,FreshBasket Ramagundam,Ramagundam,Delhi
+638,Nova Store Proddatur,Proddatur,Karnataka
+639,UrbanMart Suryapet,Suryapet,Karnataka
+640,Nova Store Nagpur,Nagpur,Punjab
+641,Prime Retail Medininagar,Medininagar,Punjab
+642,FreshBasket Mehsana,Mehsana,Maharashtra
+643,Prime Retail Cuttack,Cuttack,Karnataka
+644,Nova Store Moradabad,Moradabad,Rajasthan
+645,Prime Retail Udaipur,Udaipur,Rajasthan
+646,FreshBasket Panipat,Panipat,Maharashtra
+647,FreshBasket Bhalswa Jahangir Pur,Bhalswa Jahangir Pur,Punjab
+648,UrbanMart Bhavnagar,Bhavnagar,Karnataka
+649,FreshBasket Phagwara,Phagwara,Maharashtra
+650,UrbanMart Muzaffarnagar,Muzaffarnagar,Maharashtra
+651,ValueMart Jamshedpur,Jamshedpur,Rajasthan
+652,Nova Store Nanded,Nanded,Gujarat
+653,Prime Retail Medininagar,Medininagar,Maharashtra
+654,FreshBasket Thane,Thane,Karnataka
+655,Nova Store Chapra,Chapra,Punjab
+656,Nova Store Sagar,Sagar,Gujarat
+657,UrbanMart Alwar,Alwar,Karnataka
+658,Nova Store Malegaon,Malegaon,Punjab
+659,Nova Store Meerut,Meerut,Maharashtra
+660,Nova Store Alwar,Alwar,Gujarat
+661,FreshBasket Purnia,Purnia,Karnataka
+662,UrbanMart Vellore,Vellore,Rajasthan
+663,UrbanMart Bhiwani,Bhiwani,Delhi
+664,Prime Retail Mathura,Mathura,Rajasthan
+665,UrbanMart Bangalore,Bangalore,Delhi
+666,Nova Store Hosur,Hosur,Delhi
+667,FreshBasket Visakhapatnam,Visakhapatnam,Delhi
+668,ValueMart Miryalaguda,Miryalaguda,Karnataka
+669,ValueMart Nellore,Nellore,Gujarat
+670,UrbanMart Kozhikode,Kozhikode,Karnataka
+671,FreshBasket Mathura,Mathura,Gujarat
+672,UrbanMart Motihari,Motihari,Delhi
+673,Nova Store Ghaziabad,Ghaziabad,Delhi
+674,FreshBasket Panvel,Panvel,Delhi
+675,Nova Store Gulbarga,Gulbarga,Delhi
+676,Nova Store Gangtok,Gangtok,Rajasthan
+677,ValueMart Sambalpur,Sambalpur,Karnataka
+678,UrbanMart Visakhapatnam,Visakhapatnam,Karnataka
+679,Prime Retail Junagadh,Junagadh,Rajasthan
+680,FreshBasket Machilipatnam,Machilipatnam,Karnataka
+681,ValueMart Raurkela Industrial Township,Raurkela Industrial Township,Delhi
+682,Nova Store Mahbubnagar,Mahbubnagar,Gujarat
+683,Prime Retail Lucknow,Lucknow,Rajasthan
+684,Nova Store Delhi,Delhi,Delhi
+685,UrbanMart Agartala,Agartala,Karnataka
+686,UrbanMart Dewas,Dewas,Delhi
+687,FreshBasket Satna,Satna,Punjab
+688,Prime Retail Gwalior,Gwalior,Rajasthan
+689,FreshBasket Aurangabad,Aurangabad,Karnataka
+690,FreshBasket Bhopal,Bhopal,Punjab
+691,Prime Retail Aizawl,Aizawl,Karnataka
+692,UrbanMart Noida,Noida,Punjab
+693,UrbanMart Anand,Anand,Punjab
+694,FreshBasket Bhimavaram,Bhimavaram,Gujarat
+695,Nova Store Medininagar,Medininagar,Delhi
+696,UrbanMart Katihar,Katihar,Rajasthan
+697,Nova Store Satara,Satara,Delhi
+698,Prime Retail New Delhi,New Delhi,Punjab
+699,Nova Store Belgaum,Belgaum,Gujarat
+700,FreshBasket Kadapa,Kadapa,Maharashtra
+701,ValueMart North Dumdum,North Dumdum,Maharashtra
+702,Nova Store Avadi,Avadi,Maharashtra
+703,Nova Store Morena,Morena,Gujarat
+704,Nova Store Chapra,Chapra,Punjab
+705,Nova Store Tenali,Tenali,Karnataka
+706,Nova Store Srinagar,Srinagar,Gujarat
+707,Nova Store Mahbubnagar,Mahbubnagar,Delhi
+708,Prime Retail Aurangabad,Aurangabad,Karnataka
+709,Nova Store Belgaum,Belgaum,Karnataka
+710,ValueMart Bhavnagar,Bhavnagar,Karnataka
+711,Prime Retail Cuttack,Cuttack,Gujarat
+712,FreshBasket Sonipat,Sonipat,Karnataka
+713,Prime Retail Thane,Thane,Karnataka
+714,Prime Retail Raichur,Raichur,Maharashtra
+715,ValueMart Bellary,Bellary,Punjab
+716,ValueMart Tadipatri,Tadipatri,Punjab
+717,ValueMart Jamalpur,Jamalpur,Punjab
+718,Prime Retail Begusarai,Begusarai,Maharashtra
+719,Nova Store Barasat,Barasat,Karnataka
+720,UrbanMart Latur,Latur,Karnataka
+721,UrbanMart Katni,Katni,Rajasthan
+722,ValueMart Sultan Pur Majra,Sultan Pur Majra,Rajasthan
+723,ValueMart Rohtak,Rohtak,Rajasthan
+724,UrbanMart Morbi,Morbi,Delhi
+725,Prime Retail Visakhapatnam,Visakhapatnam,Maharashtra
+726,FreshBasket Howrah,Howrah,Gujarat
+727,Prime Retail Nellore,Nellore,Gujarat
+728,FreshBasket Lucknow,Lucknow,Rajasthan
+729,ValueMart Ujjain,Ujjain,Punjab
+730,UrbanMart Katihar,Katihar,Punjab
+731,Prime Retail Kumbakonam,Kumbakonam,Gujarat
+732,FreshBasket Berhampore,Berhampore,Delhi
+733,Nova Store Ichalkaranji,Ichalkaranji,Maharashtra
+734,ValueMart Vellore,Vellore,Karnataka
+735,UrbanMart Kulti,Kulti,Punjab
+736,ValueMart Mau,Mau,Delhi
+737,Nova Store Bongaigaon,Bongaigaon,Rajasthan
+738,UrbanMart Mirzapur,Mirzapur,Rajasthan
+739,UrbanMart Saharsa,Saharsa,Punjab
+740,UrbanMart Jalna,Jalna,Maharashtra
+741,UrbanMart Bhatpara,Bhatpara,Punjab
+742,UrbanMart Chittoor,Chittoor,Punjab
+743,FreshBasket Kottayam,Kottayam,Maharashtra
+744,Nova Store Mahbubnagar,Mahbubnagar,Maharashtra
+745,Prime Retail Mau,Mau,Rajasthan
+746,Prime Retail Ramgarh,Ramgarh,Karnataka
+747,FreshBasket Bathinda,Bathinda,Punjab
+748,ValueMart Malegaon,Malegaon,Rajasthan
+749,UrbanMart Chandigarh,Chandigarh,Delhi
+750,FreshBasket Pudukkottai,Pudukkottai,Punjab
+751,Nova Store Gandhinagar,Gandhinagar,Punjab
+752,Prime Retail Tiruchirappalli,Tiruchirappalli,Gujarat
+753,FreshBasket Warangal,Warangal,Rajasthan
+754,ValueMart Pudukkottai,Pudukkottai,Rajasthan
+755,Prime Retail Hapur,Hapur,Delhi
+756,UrbanMart Madanapalle,Madanapalle,Delhi
+757,Prime Retail Bikaner,Bikaner,Punjab
+758,UrbanMart Amroha,Amroha,Gujarat
+759,Prime Retail Fatehpur,Fatehpur,Karnataka
+760,Nova Store Raiganj,Raiganj,Rajasthan
+761,Nova Store Durg,Durg,Delhi
+762,Prime Retail Bahraich,Bahraich,Punjab
+763,Prime Retail Shivpuri,Shivpuri,Maharashtra
+764,UrbanMart Sambhal,Sambhal,Maharashtra
+765,UrbanMart Ulhasnagar,Ulhasnagar,Karnataka
+766,UrbanMart Nanded,Nanded,Karnataka
+767,Nova Store Jaipur,Jaipur,Punjab
+768,ValueMart Thiruvananthapuram,Thiruvananthapuram,Maharashtra
+769,Nova Store Mangalore,Mangalore,Punjab
+770,Nova Store Jorhat,Jorhat,Punjab
+771,Prime Retail Silchar,Silchar,Punjab
+772,UrbanMart Kadapa,Kadapa,Karnataka
+773,Prime Retail Proddatur,Proddatur,Delhi
+774,UrbanMart South Dumdum,South Dumdum,Delhi
+775,Nova Store Chandrapur,Chandrapur,Karnataka
+776,UrbanMart Mirzapur,Mirzapur,Karnataka
+777,UrbanMart Giridih,Giridih,Karnataka
+778,Prime Retail Chapra,Chapra,Maharashtra
+779,Prime Retail Kolkata,Kolkata,Gujarat
+780,UrbanMart Kottayam,Kottayam,Maharashtra
+781,UrbanMart Kirari Suleman Nagar,Kirari Suleman Nagar,Delhi
+782,ValueMart Gopalpur,Gopalpur,Rajasthan
+783,FreshBasket Hospet,Hospet,Karnataka
+784,Prime Retail Tenali,Tenali,Rajasthan
+785,Prime Retail Buxar,Buxar,Karnataka
+786,FreshBasket Chittoor,Chittoor,Punjab
+787,Prime Retail Warangal,Warangal,Delhi
+788,FreshBasket Loni,Loni,Punjab
+789,Prime Retail Danapur,Danapur,Gujarat
+790,FreshBasket Gaya,Gaya,Delhi
+791,Prime Retail Kamarhati,Kamarhati,Delhi
+792,UrbanMart Ramagundam,Ramagundam,Punjab
+793,Prime Retail Aurangabad,Aurangabad,Gujarat
+794,Nova Store Ozhukarai,Ozhukarai,Karnataka
+795,UrbanMart Dehradun,Dehradun,Punjab
+796,Nova Store Sikar,Sikar,Delhi
+797,Nova Store Karawal Nagar,Karawal Nagar,Delhi
+798,FreshBasket Aurangabad,Aurangabad,Delhi
+799,Prime Retail Pali,Pali,Rajasthan
+800,ValueMart Kamarhati,Kamarhati,Maharashtra
+801,FreshBasket Nagercoil,Nagercoil,Maharashtra
+802,ValueMart Giridih,Giridih,Rajasthan
+803,Prime Retail Thane,Thane,Punjab
+804,UrbanMart Mahbubnagar,Mahbubnagar,Karnataka
+805,Prime Retail Bareilly,Bareilly,Gujarat
+806,FreshBasket Ramgarh,Ramgarh,Maharashtra
+807,Nova Store Gudivada,Gudivada,Karnataka
+808,Prime Retail Ichalkaranji,Ichalkaranji,Gujarat
+809,UrbanMart Katihar,Katihar,Maharashtra
+810,UrbanMart Danapur,Danapur,Delhi
+811,UrbanMart Bathinda,Bathinda,Rajasthan
+812,UrbanMart Pali,Pali,Delhi
+813,Prime Retail Morbi,Morbi,Delhi
+814,Prime Retail Shimla,Shimla,Maharashtra
+815,ValueMart Haridwar,Haridwar,Gujarat
+816,FreshBasket Aligarh,Aligarh,Punjab
+817,Nova Store Patna,Patna,Karnataka
+818,Nova Store Farrukhabad,Farrukhabad,Punjab
+819,Nova Store Vijayanagaram,Vijayanagaram,Karnataka
+820,Prime Retail Salem,Salem,Delhi
+821,FreshBasket Aurangabad,Aurangabad,Karnataka
+822,FreshBasket Ahmedabad,Ahmedabad,Delhi
+823,UrbanMart Jehanabad,Jehanabad,Rajasthan
+824,FreshBasket Kharagpur,Kharagpur,Maharashtra
+825,Prime Retail Naihati,Naihati,Maharashtra
+826,Prime Retail Vijayawada,Vijayawada,Gujarat
+827,UrbanMart Ghaziabad,Ghaziabad,Punjab
+828,Nova Store Ratlam,Ratlam,Punjab
+829,UrbanMart Jabalpur,Jabalpur,Gujarat
+830,ValueMart Ramagundam,Ramagundam,Maharashtra
+831,Nova Store Naihati,Naihati,Maharashtra
+832,UrbanMart Sasaram,Sasaram,Maharashtra
+833,UrbanMart Bikaner,Bikaner,Karnataka
+834,ValueMart Vellore,Vellore,Gujarat
+835,Nova Store South Dumdum,South Dumdum,Punjab
+836,UrbanMart Jabalpur,Jabalpur,Punjab
+837,Nova Store Kulti,Kulti,Karnataka
+838,ValueMart Rohtak,Rohtak,Karnataka
+839,ValueMart Karawal Nagar,Karawal Nagar,Punjab
+840,UrbanMart Bettiah,Bettiah,Rajasthan
+841,UrbanMart Raiganj,Raiganj,Punjab
+842,Prime Retail Malegaon,Malegaon,Gujarat
+843,ValueMart Phagwara,Phagwara,Punjab
+844,Prime Retail Meerut,Meerut,Punjab
+845,ValueMart Buxar,Buxar,Delhi
+846,Prime Retail Kolkata,Kolkata,Rajasthan
+847,ValueMart Panihati,Panihati,Gujarat
+848,Prime Retail Bhind,Bhind,Karnataka
+849,Nova Store Orai,Orai,Gujarat
+850,UrbanMart Bhavnagar,Bhavnagar,Punjab
+851,Nova Store Ajmer,Ajmer,Maharashtra
+852,UrbanMart Proddatur,Proddatur,Maharashtra
+853,Nova Store Bardhaman,Bardhaman,Punjab
+854,Nova Store Rajahmundry,Rajahmundry,Karnataka
+855,Prime Retail Gangtok,Gangtok,Rajasthan
+856,FreshBasket Hosur,Hosur,Maharashtra
+857,ValueMart Orai,Orai,Rajasthan
+858,FreshBasket Bathinda,Bathinda,Delhi
+859,Nova Store Bulandshahr,Bulandshahr,Rajasthan
+860,ValueMart Jorhat,Jorhat,Maharashtra
+861,ValueMart Barasat,Barasat,Gujarat
+862,Prime Retail Pali,Pali,Delhi
+863,Nova Store Coimbatore,Coimbatore,Gujarat
+864,FreshBasket Latur,Latur,Gujarat
+865,Nova Store North Dumdum,North Dumdum,Gujarat
+866,Prime Retail Tirupati,Tirupati,Karnataka
+867,Nova Store Ujjain,Ujjain,Gujarat
+868,UrbanMart Raichur,Raichur,Rajasthan
+869,ValueMart Haldia,Haldia,Punjab
+870,UrbanMart Ratlam,Ratlam,Rajasthan
+871,UrbanMart Motihari,Motihari,Maharashtra
+872,UrbanMart Panipat,Panipat,Rajasthan
+873,FreshBasket Nangloi Jat,Nangloi Jat,Punjab
+874,FreshBasket Bhalswa Jahangir Pur,Bhalswa Jahangir Pur,Delhi
+875,Prime Retail Kozhikode,Kozhikode,Rajasthan
+876,ValueMart Nadiad,Nadiad,Rajasthan
+877,Nova Store Bongaigaon,Bongaigaon,Karnataka
+878,Prime Retail Aurangabad,Aurangabad,Karnataka
+879,Prime Retail Proddatur,Proddatur,Karnataka
+880,Nova Store Bhimavaram,Bhimavaram,Delhi
+881,ValueMart Rewa,Rewa,Karnataka
+882,Nova Store Ludhiana,Ludhiana,Delhi
+883,Nova Store Rajpur Sonarpur,Rajpur Sonarpur,Rajasthan
+884,Nova Store Amaravati,Amaravati,Karnataka
+885,ValueMart Tirupati,Tirupati,Gujarat
+886,Prime Retail Loni,Loni,Maharashtra
+887,Prime Retail Muzaffarnagar,Muzaffarnagar,Delhi
+888,Prime Retail Thane,Thane,Delhi
+889,ValueMart Bhopal,Bhopal,Delhi
+890,Nova Store Bhusawal,Bhusawal,Karnataka
+891,Nova Store Gopalpur,Gopalpur,Punjab
+892,FreshBasket Howrah,Howrah,Maharashtra
+893,Nova Store Erode,Erode,Gujarat
+894,UrbanMart Motihari,Motihari,Maharashtra
+895,Prime Retail Vasai-Virar,Vasai-Virar,Gujarat
+896,Nova Store Gurgaon,Gurgaon,Maharashtra
+897,Prime Retail Bilaspur,Bilaspur,Delhi
+898,FreshBasket Malda,Malda,Karnataka
+899,Prime Retail Gangtok,Gangtok,Gujarat
+900,ValueMart Kishanganj,Kishanganj,Delhi
+901,ValueMart Agra,Agra,Maharashtra
+902,UrbanMart Rewa,Rewa,Maharashtra
+903,UrbanMart South Dumdum,South Dumdum,Karnataka
+904,UrbanMart Agra,Agra,Gujarat
+905,Nova Store Bhimavaram,Bhimavaram,Punjab
+906,FreshBasket Barasat,Barasat,Delhi
+907,Prime Retail Bangalore,Bangalore,Gujarat
+908,Prime Retail Berhampore,Berhampore,Rajasthan
+909,FreshBasket Eluru,Eluru,Karnataka
+910,UrbanMart North Dumdum,North Dumdum,Karnataka
+911,UrbanMart Rampur,Rampur,Punjab
+912,UrbanMart Thrissur,Thrissur,Gujarat
+913,Nova Store Tiruchirappalli,Tiruchirappalli,Punjab
+914,FreshBasket Ujjain,Ujjain,Rajasthan
+915,Prime Retail Gurgaon,Gurgaon,Gujarat
+916,Prime Retail Bardhaman,Bardhaman,Gujarat
+917,FreshBasket Malegaon,Malegaon,Maharashtra
+918,FreshBasket Navi Mumbai,Navi Mumbai,Delhi
+919,ValueMart Rewa,Rewa,Delhi
+920,Prime Retail Fatehpur,Fatehpur,Karnataka
+921,FreshBasket Munger,Munger,Maharashtra
+922,UrbanMart Sri Ganganagar,Sri Ganganagar,Punjab
+923,UrbanMart Bijapur,Bijapur,Punjab
+924,FreshBasket Buxar,Buxar,Rajasthan
+925,Prime Retail Orai,Orai,Delhi
+926,Nova Store Pimpri-Chinchwad,Pimpri-Chinchwad,Delhi
+927,Prime Retail Karnal,Karnal,Rajasthan
+928,Nova Store Thane,Thane,Rajasthan
+929,Prime Retail Mirzapur,Mirzapur,Punjab
+930,FreshBasket Begusarai,Begusarai,Gujarat
+931,ValueMart Thane,Thane,Punjab
+932,UrbanMart Bareilly,Bareilly,Punjab
+933,UrbanMart Etawah,Etawah,Karnataka
+934,UrbanMart Katni,Katni,Punjab
+935,Prime Retail Kollam,Kollam,Delhi
+936,UrbanMart Lucknow,Lucknow,Rajasthan
+937,UrbanMart Loni,Loni,Punjab
+938,Nova Store Shivpuri,Shivpuri,Karnataka
+939,FreshBasket Rajahmundry,Rajahmundry,Punjab
+940,FreshBasket Mira-Bhayandar,Mira-Bhayandar,Punjab
+941,UrbanMart Singrauli,Singrauli,Gujarat
+942,Nova Store Kirari Suleman Nagar,Kirari Suleman Nagar,Gujarat
+943,FreshBasket Anantapur,Anantapur,Gujarat
+944,UrbanMart Hindupur,Hindupur,Gujarat
+945,FreshBasket Sangli-Miraj & Kupwad,Sangli-Miraj & Kupwad,Rajasthan
+946,UrbanMart Nashik,Nashik,Maharashtra
+947,Prime Retail Surendranagar Dudhrej,Surendranagar Dudhrej,Gujarat
+948,FreshBasket Bahraich,Bahraich,Punjab
+949,Nova Store Anantapuram,Anantapuram,Rajasthan
+950,UrbanMart Anantapuram,Anantapuram,Rajasthan
+951,FreshBasket Allahabad,Allahabad,Karnataka
+952,ValueMart Farrukhabad,Farrukhabad,Karnataka
+953,Nova Store Jaunpur,Jaunpur,Rajasthan
+954,UrbanMart Amaravati,Amaravati,Delhi
+955,Nova Store Nadiad,Nadiad,Punjab
+956,ValueMart Bhavnagar,Bhavnagar,Punjab
+957,UrbanMart Tinsukia,Tinsukia,Delhi
+958,UrbanMart Kumbakonam,Kumbakonam,Gujarat
+959,Nova Store Ramagundam,Ramagundam,Punjab
+960,FreshBasket Sangli-Miraj & Kupwad,Sangli-Miraj & Kupwad,Gujarat
+961,Prime Retail Karimnagar,Karimnagar,Gujarat
+962,FreshBasket Thane,Thane,Gujarat
+963,FreshBasket Jodhpur,Jodhpur,Rajasthan
+964,Prime Retail Ajmer,Ajmer,Gujarat
+965,Prime Retail Chandigarh,Chandigarh,Gujarat
+966,Nova Store Motihari,Motihari,Punjab
+967,FreshBasket Vellore,Vellore,Gujarat
+968,ValueMart Aurangabad,Aurangabad,Rajasthan
+969,UrbanMart Sirsa,Sirsa,Karnataka
+970,Prime Retail Kamarhati,Kamarhati,Rajasthan
+971,FreshBasket Ajmer,Ajmer,Delhi
+972,ValueMart Fatehpur,Fatehpur,Punjab
+973,ValueMart Loni,Loni,Delhi
+974,Prime Retail Nadiad,Nadiad,Karnataka
+975,UrbanMart Sambhal,Sambhal,Gujarat
+976,ValueMart Munger,Munger,Maharashtra
+977,UrbanMart Bhusawal,Bhusawal,Gujarat
+978,Nova Store Hospet,Hospet,Maharashtra
+979,UrbanMart Jamalpur,Jamalpur,Delhi
+980,ValueMart Machilipatnam,Machilipatnam,Rajasthan
+981,ValueMart Chandigarh,Chandigarh,Rajasthan
+982,Nova Store Saharsa,Saharsa,Punjab
+983,Prime Retail Purnia,Purnia,Rajasthan
+984,Nova Store Karimnagar,Karimnagar,Karnataka
+985,Prime Retail Udupi,Udupi,Punjab
+986,FreshBasket Vijayawada,Vijayawada,Gujarat
+987,Prime Retail Ozhukarai,Ozhukarai,Delhi
+988,FreshBasket Yamunanagar,Yamunanagar,Punjab
+989,UrbanMart Jhansi,Jhansi,Gujarat
+990,Nova Store Ambarnath,Ambarnath,Karnataka
+991,ValueMart Surendranagar Dudhrej,Surendranagar Dudhrej,Delhi
+992,ValueMart Medininagar,Medininagar,Gujarat
+993,FreshBasket Gurgaon,Gurgaon,Karnataka
+994,Prime Retail Jodhpur,Jodhpur,Maharashtra
+995,Prime Retail Etawah,Etawah,Rajasthan
+996,ValueMart Dindigul,Dindigul,Rajasthan
+997,ValueMart Shahjahanpur,Shahjahanpur,Maharashtra
+998,Nova Store Vijayanagaram,Vijayanagaram,Delhi
+999,ValueMart Gurgaon,Gurgaon,Maharashtra
+1000,FreshBasket Raurkela Industrial Township,Raurkela Industrial Township,Rajasthan
+1001,ValueMart Farrukhabad,Farrukhabad,Rajasthan
+1002,Prime Retail Sultan Pur Majra,Sultan Pur Majra,Punjab
+1003,Nova Store Anand,Anand,Punjab
+1004,Prime Retail Durgapur,Durgapur,Delhi
+1005,Prime Retail Tezpur,Tezpur,Rajasthan
+1006,Nova Store Bangalore,Bangalore,Gujarat
+1007,UrbanMart Unnao,Unnao,Maharashtra
+1008,FreshBasket Aizawl,Aizawl,Punjab
+1009,ValueMart Ratlam,Ratlam,Karnataka
+1010,Prime Retail Rajpur Sonarpur,Rajpur Sonarpur,Karnataka
+1011,FreshBasket Gopalpur,Gopalpur,Karnataka
+1012,ValueMart Kolkata,Kolkata,Delhi
+1013,ValueMart Rajkot,Rajkot,Gujarat
+1014,Prime Retail Nanded,Nanded,Gujarat
+1015,UrbanMart Mehsana,Mehsana,Delhi
+1016,Prime Retail Srinagar,Srinagar,Punjab
+1017,Prime Retail Salem,Salem,Gujarat
+1018,Prime Retail Imphal,Imphal,Rajasthan
+1019,Nova Store Bhilai,Bhilai,Gujarat
+1020,Prime Retail Ranchi,Ranchi,Karnataka
+1021,FreshBasket Firozabad,Firozabad,Delhi
+1022,ValueMart Unnao,Unnao,Delhi
+1023,UrbanMart Agra,Agra,Punjab
+1024,Prime Retail Shimoga,Shimoga,Rajasthan
+1025,FreshBasket Tirunelveli,Tirunelveli,Delhi
+1026,FreshBasket Bhusawal,Bhusawal,Delhi
+1027,FreshBasket Siliguri,Siliguri,Karnataka
+1028,Prime Retail Mirzapur,Mirzapur,Maharashtra
+1029,UrbanMart Udupi,Udupi,Delhi
+1030,UrbanMart Alwar,Alwar,Gujarat
+1031,UrbanMart Srinagar,Srinagar,Gujarat
+1032,Prime Retail Etawah,Etawah,Karnataka
+1033,UrbanMart Vijayawada,Vijayawada,Gujarat
+1034,Prime Retail Khandwa,Khandwa,Delhi
+1035,ValueMart Varanasi,Varanasi,Gujarat
+1036,Nova Store Jhansi,Jhansi,Punjab
+1037,Nova Store Imphal,Imphal,Punjab
+1038,FreshBasket Bhimavaram,Bhimavaram,Punjab
+1039,ValueMart Kochi,Kochi,Delhi
+1040,Nova Store Bokaro,Bokaro,Rajasthan
+1041,Nova Store Ichalkaranji,Ichalkaranji,Punjab
+1042,FreshBasket Dehradun,Dehradun,Punjab
+1043,UrbanMart Sirsa,Sirsa,Karnataka
+1044,UrbanMart Uluberia,Uluberia,Karnataka
+1045,Prime Retail Madhyamgram,Madhyamgram,Maharashtra
+1046,UrbanMart Serampore,Serampore,Karnataka
+1047,FreshBasket Ulhasnagar,Ulhasnagar,Delhi
+1048,FreshBasket Jaipur,Jaipur,Gujarat
+1049,Prime Retail Kirari Suleman Nagar,Kirari Suleman Nagar,Karnataka
+1050,FreshBasket Meerut,Meerut,Karnataka
+1051,UrbanMart Jamnagar,Jamnagar,Maharashtra
+1052,FreshBasket Gangtok,Gangtok,Karnataka
+1053,ValueMart Sambalpur,Sambalpur,Punjab
+1054,Prime Retail Bhiwani,Bhiwani,Maharashtra
+1055,FreshBasket Mirzapur,Mirzapur,Punjab
+1056,Nova Store Shimla,Shimla,Gujarat
+1057,FreshBasket Bihar Sharif,Bihar Sharif,Rajasthan
+1058,FreshBasket Bareilly,Bareilly,Rajasthan
+1059,Nova Store Chittoor,Chittoor,Karnataka
+1060,ValueMart Visakhapatnam,Visakhapatnam,Delhi
+1061,Prime Retail Hosur,Hosur,Punjab
+1062,FreshBasket Bhavnagar,Bhavnagar,Delhi
+1063,FreshBasket Raiganj,Raiganj,Maharashtra
+1064,FreshBasket Amravati,Amravati,Gujarat
+1065,ValueMart Anantapuram,Anantapuram,Delhi
+1066,FreshBasket Bhusawal,Bhusawal,Gujarat
+1067,UrbanMart Solapur,Solapur,Karnataka
+1068,UrbanMart Sambalpur,Sambalpur,Gujarat
+1069,ValueMart Ahmedabad,Ahmedabad,Karnataka
+1070,FreshBasket Vadodara,Vadodara,Karnataka
+1071,Nova Store Nellore,Nellore,Gujarat
+1072,UrbanMart Bally,Bally,Karnataka
+1073,Prime Retail Rampur,Rampur,Punjab
+1074,ValueMart Gudivada,Gudivada,Karnataka
+1075,FreshBasket Katni,Katni,Rajasthan
+1076,ValueMart Ambattur,Ambattur,Delhi
+1077,Prime Retail Eluru,Eluru,Gujarat
+1078,ValueMart Jodhpur,Jodhpur,Rajasthan
+1079,FreshBasket Singrauli,Singrauli,Maharashtra
+1080,Prime Retail Rourkela,Rourkela,Delhi
+1081,ValueMart Arrah,Arrah,Punjab
+1082,FreshBasket Udupi,Udupi,Punjab
+1083,Prime Retail Nadiad,Nadiad,Gujarat
+1084,Prime Retail Avadi,Avadi,Punjab
+1085,ValueMart Ambattur,Ambattur,Karnataka
+1086,Prime Retail Davanagere,Davanagere,Delhi
+1087,FreshBasket Mangalore,Mangalore,Maharashtra
+1088,Nova Store Burhanpur,Burhanpur,Gujarat
+1089,Prime Retail Rajkot,Rajkot,Karnataka
+1090,Prime Retail Khora ,Khora ,Delhi
+1091,Nova Store Bardhaman,Bardhaman,Delhi
+1092,UrbanMart New Delhi,New Delhi,Gujarat
+1093,FreshBasket Nellore,Nellore,Punjab
+1094,FreshBasket Baranagar,Baranagar,Maharashtra
+1095,FreshBasket Chandrapur,Chandrapur,Rajasthan
+1096,Prime Retail Akola,Akola,Delhi
+1097,ValueMart Loni,Loni,Delhi
+1098,Nova Store Danapur,Danapur,Karnataka
+1099,FreshBasket Kakinada,Kakinada,Punjab
+1100,FreshBasket Suryapet,Suryapet,Karnataka
+1101,ValueMart Secunderabad,Secunderabad,Maharashtra
+1102,ValueMart Patiala,Patiala,Karnataka
+1103,Nova Store Amaravati,Amaravati,Gujarat
+1104,Nova Store Tiruvottiyur,Tiruvottiyur,Punjab
+1105,Prime Retail Etawah,Etawah,Maharashtra
+1106,Nova Store Gorakhpur,Gorakhpur,Delhi
+1107,Prime Retail Hindupur,Hindupur,Karnataka
+1108,Nova Store Ambarnath,Ambarnath,Karnataka
+1109,Prime Retail Bidar,Bidar,Rajasthan
+1110,Nova Store Raichur,Raichur,Rajasthan
+1111,Nova Store Yamunanagar,Yamunanagar,Delhi
+1112,UrbanMart Panihati,Panihati,Rajasthan
+1113,Prime Retail Kishanganj,Kishanganj,Punjab
+1114,Nova Store Thanjavur,Thanjavur,Delhi
+1115,ValueMart Vasai-Virar,Vasai-Virar,Maharashtra
+1116,FreshBasket Shahjahanpur,Shahjahanpur,Karnataka
+1117,UrbanMart Hapur,Hapur,Rajasthan
+1118,Prime Retail Howrah,Howrah,Punjab
+1119,UrbanMart Sasaram,Sasaram,Gujarat
+1120,Prime Retail Gorakhpur,Gorakhpur,Karnataka
+1121,FreshBasket Mirzapur,Mirzapur,Gujarat
+1122,ValueMart Purnia,Purnia,Rajasthan
+1123,FreshBasket Dewas,Dewas,Gujarat
+1124,Nova Store Saharanpur,Saharanpur,Punjab
+1125,ValueMart Jaipur,Jaipur,Karnataka
+1126,ValueMart Suryapet,Suryapet,Delhi
+1127,ValueMart Bardhaman,Bardhaman,Delhi
+1128,ValueMart Jehanabad,Jehanabad,Rajasthan
+1129,UrbanMart Khora ,Khora ,Delhi
+1130,ValueMart Tadipatri,Tadipatri,Rajasthan
+1131,FreshBasket Jhansi,Jhansi,Gujarat
+1132,Prime Retail Raiganj,Raiganj,Karnataka
+1133,Prime Retail Gangtok,Gangtok,Punjab
+1134,ValueMart Ahmedabad,Ahmedabad,Punjab
+1135,UrbanMart Hospet,Hospet,Delhi
+1136,ValueMart Patiala,Patiala,Rajasthan
+1137,Nova Store Pudukkottai,Pudukkottai,Delhi
+1138,Prime Retail Sasaram,Sasaram,Delhi
+1139,FreshBasket Srinagar,Srinagar,Maharashtra
+1140,Prime Retail Rohtak,Rohtak,Rajasthan
+1141,Nova Store Barasat,Barasat,Delhi
+1142,Nova Store Akola,Akola,Karnataka
+1143,Nova Store Avadi,Avadi,Punjab
+1144,Nova Store Jammu,Jammu,Rajasthan
+1145,Nova Store Thiruvananthapuram,Thiruvananthapuram,Punjab
+1146,ValueMart Delhi,Delhi,Rajasthan
+1147,ValueMart Medininagar,Medininagar,Rajasthan
+1148,FreshBasket Farrukhabad,Farrukhabad,Karnataka
+1149,Prime Retail Ambala,Ambala,Delhi
+1150,Nova Store Gorakhpur,Gorakhpur,Gujarat
+1151,FreshBasket Dhule,Dhule,Delhi
+1152,Prime Retail Jalandhar,Jalandhar,Rajasthan
+1153,ValueMart Dehri,Dehri,Delhi
+1154,ValueMart Jalna,Jalna,Karnataka
+1155,UrbanMart Ahmednagar,Ahmednagar,Karnataka
+1156,FreshBasket Buxar,Buxar,Gujarat
+1157,Nova Store Parbhani,Parbhani,Maharashtra
+1158,Prime Retail Sonipat,Sonipat,Punjab
+1159,Prime Retail Bhiwandi,Bhiwandi,Gujarat
+1160,UrbanMart Shahjahanpur,Shahjahanpur,Gujarat
+1161,ValueMart Hubli–Dharwad,Hubli–Dharwad,Delhi
+1162,ValueMart Coimbatore,Coimbatore,Karnataka
+1163,FreshBasket Kochi,Kochi,Punjab
+1164,UrbanMart Kolkata,Kolkata,Delhi
+1165,Prime Retail Mau,Mau,Delhi
+1166,Prime Retail Jammu,Jammu,Gujarat
+1167,UrbanMart Maheshtala,Maheshtala,Delhi
+1168,Nova Store Gwalior,Gwalior,Maharashtra
+1169,UrbanMart Siwan,Siwan,Karnataka
+1170,Nova Store Chandigarh,Chandigarh,Maharashtra
+1171,UrbanMart Ghaziabad,Ghaziabad,Rajasthan
+1172,UrbanMart Salem,Salem,Delhi
+1173,Prime Retail Kozhikode,Kozhikode,Gujarat
+1174,Prime Retail Imphal,Imphal,Punjab
+1175,Nova Store Nizamabad,Nizamabad,Rajasthan
+1176,Nova Store Sonipat,Sonipat,Rajasthan
+1177,Nova Store Ramagundam,Ramagundam,Karnataka
+1178,Nova Store Yamunanagar,Yamunanagar,Delhi
+1179,FreshBasket Bahraich,Bahraich,Punjab
+1180,Prime Retail Mira-Bhayandar,Mira-Bhayandar,Karnataka
+1181,UrbanMart Tiruchirappalli,Tiruchirappalli,Karnataka
+1182,FreshBasket Kochi,Kochi,Delhi
+1183,ValueMart Katni,Katni,Delhi
+1184,ValueMart Siwan,Siwan,Karnataka
+1185,UrbanMart Karnal,Karnal,Maharashtra
+1186,ValueMart Durgapur,Durgapur,Maharashtra
+1187,Prime Retail Mehsana,Mehsana,Punjab
+1188,FreshBasket Erode,Erode,Maharashtra
+1189,UrbanMart Belgaum,Belgaum,Maharashtra
+1190,Nova Store Agartala,Agartala,Maharashtra
+1191,ValueMart Sultan Pur Majra,Sultan Pur Majra,Rajasthan
+1192,FreshBasket Belgaum,Belgaum,Punjab
+1193,UrbanMart Karnal,Karnal,Karnataka
+1194,ValueMart Narasaraopet,Narasaraopet,Rajasthan
+1195,Nova Store Tiruchirappalli,Tiruchirappalli,Karnataka
+1196,UrbanMart Sirsa,Sirsa,Maharashtra
+1197,Prime Retail Kavali,Kavali,Rajasthan
+1198,FreshBasket Sirsa,Sirsa,Punjab
+1199,Nova Store Hazaribagh,Hazaribagh,Maharashtra
+1200,ValueMart Hazaribagh,Hazaribagh,Gujarat

@@ -1,0 +1,1501 @@
+employee_key,employee_name,designation,store_key
+1,Raghav Choudhury,Inventory Executive,564
+2,Tarak Kashyap,Sales Executive,704
+3,Gautam Chana,Store Manager,202
+4,Tejas Oommen,Inventory Executive,1055
+5,Sachi Hans,Cashier,743
+6,Dayita Chandra,Cashier,1007
+7,Amrita Chaudhuri,Cashier,440
+8,Tara Kari,Sales Executive,171
+9,Victor Narayanan,Inventory Executive,893
+10,Anamika Mannan,Cashier,887
+11,Laksh Halder,Cashier,929
+12,Falguni Sehgal,Sales Executive,298
+13,Samar Kala,Cashier,865
+14,Sudiksha Bail,Cashier,103
+15,Naveen Mittal,Sales Executive,1184
+16,Garima Lanka,Cashier,217
+17,Manthan Pant,Cashier,326
+18,Krish Chandra,Store Manager,170
+19,Nirja Memon,Cashier,85
+20,Mohammed Grover,Cashier,398
+21,Idika Konda,Inventory Executive,453
+22,Krisha Munshi,Cashier,1056
+23,Upma Tripathi,Store Manager,538
+24,Hema Baria,Cashier,919
+25,Banjeet Handa,Inventory Executive,1004
+26,Nathan Oommen,Cashier,491
+27,Lohit Khatri,Inventory Executive,450
+28,Logan Halder,Sales Executive,1002
+29,Xalak Mahal,Inventory Executive,195
+30,Yuvraj Ranganathan,Sales Executive,60
+31,Jonathan Bawa,Inventory Executive,984
+32,Ishwar Mital,Inventory Executive,1135
+33,Imaran Master,Sales Executive,370
+34,Nilima Bansal,Cashier,860
+35,Jacob Rama,Sales Executive,293
+36,Samesh Mammen,Store Manager,818
+37,Mugdha Thakur,Sales Executive,403
+38,Fitan Bath,Sales Executive,407
+39,Farhan Kadakia,Cashier,1054
+40,Krisha Sahni,Sales Executive,37
+41,Manan Hayre,Inventory Executive,582
+42,Gunbir Dhawan,Store Manager,676
+43,Barkha Ramaswamy,Cashier,666
+44,Bhavna Jani,Inventory Executive,108
+45,Aarav Mangat,Cashier,287
+46,Jacob Nadkarni,Inventory Executive,133
+47,Anvi Gera,Inventory Executive,578
+48,Sudiksha Mall,Cashier,1160
+49,Ayaan Gill,Inventory Executive,332
+50,Yagnesh Choudhary,Store Manager,889
+51,Dipta Walia,Inventory Executive,535
+52,Fariq Divan,Cashier,442
+53,Omaja Prakash,Store Manager,788
+54,Eshana Korpal,Sales Executive,252
+55,Sathvik Keer,Cashier,443
+56,Zashil Kari,Inventory Executive,660
+57,Yatin Sangha,Inventory Executive,593
+58,Ikshita Warrior,Cashier,560
+59,Wazir Parmer,Cashier,1034
+60,Dakshesh Kari,Cashier,569
+61,Raagini Naidu,Sales Executive,1188
+62,Parth Chaudhary,Sales Executive,231
+63,Yatin Yogi,Inventory Executive,514
+64,Patrick Toor,Sales Executive,260
+65,Lakshit Dalal,Sales Executive,23
+66,Jacob Mahajan,Store Manager,776
+67,Meghana Parikh,Sales Executive,253
+68,Kalpit Narayanan,Cashier,332
+69,Sai Behl,Cashier,780
+70,Aarini Krish,Store Manager,872
+71,Ishita Shah,Sales Executive,130
+72,Anthony Morar,Inventory Executive,973
+73,Hritik Aggarwal,Store Manager,647
+74,Aadi Bobal,Inventory Executive,1085
+75,Frado Kanda,Sales Executive,547
+76,Oni Kashyap,Cashier,562
+77,Tara Upadhyay,Cashier,707
+78,Yauvani Goda,Inventory Executive,9
+79,Dominic Baral,Inventory Executive,105
+80,Adya Kota,Inventory Executive,735
+81,Shravya Sule,Sales Executive,748
+82,Lucky Jha,Sales Executive,321
+83,Maya Venkataraman,Sales Executive,965
+84,Dominic Chad,Cashier,321
+85,Ojas Sanghvi,Sales Executive,177
+86,Frado Bumb,Sales Executive,779
+87,Ayush Natarajan,Cashier,419
+88,Riya Dhawan,Store Manager,605
+89,Ranbir Buch,Inventory Executive,593
+90,Parth Pant,Inventory Executive,206
+91,Noah Sethi,Sales Executive,778
+92,Bhavna Sule,Store Manager,870
+93,Ranbir Bansal,Inventory Executive,952
+94,Jai Rajagopal,Sales Executive,60
+95,Geetika Dixit,Store Manager,1063
+96,Falak Hora,Inventory Executive,440
+97,Libni Tank,Cashier,548
+98,Warhi Prasad,Inventory Executive,912
+99,Radhika Samra,Sales Executive,1196
+100,Darpan Bhardwaj,Sales Executive,795
+101,Gabriel Nayak,Inventory Executive,469
+102,Eshana Sachar,Cashier,786
+103,Chakradev Panchal,Cashier,930
+104,Mugdha Vyas,Inventory Executive,848
+105,Damini Dayal,Store Manager,435
+106,Pranav Kulkarni,Inventory Executive,171
+107,Meera Wadhwa,Cashier,929
+108,Ayush Bal,Cashier,580
+109,Isaac Wadhwa,Inventory Executive,973
+110,Neelima Sibal,Sales Executive,295
+111,Isha Anne,Inventory Executive,1152
+112,Nathan Hans,Store Manager,978
+113,Manya Nagy,Sales Executive,600
+114,Hritik Barman,Inventory Executive,727
+115,Vritti Mitter,Cashier,1037
+116,Anusha Mutti,Sales Executive,466
+117,Nikita Peri,Inventory Executive,965
+118,Widisha Lala,Inventory Executive,982
+119,Vanya Sengupta,Sales Executive,767
+120,Gayathri Guha,Inventory Executive,854
+121,Yahvi Kata,Sales Executive,1095
+122,Indira Kapur,Cashier,390
+123,Hamsini Ahuja,Inventory Executive,387
+124,Benjamin Datta,Store Manager,609
+125,Upadhriti Pathak,Store Manager,1070
+126,Unni Balan,Inventory Executive,1172
+127,Shivani Uppal,Cashier,52
+128,Naksh Sarkar,Sales Executive,992
+129,Bahadurjit Yogi,Inventory Executive,264
+130,Sanya Soni,Store Manager,822
+131,Kala Gupta,Store Manager,385
+132,Utkarsh Pall,Cashier,102
+133,Tanmayi Walla,Inventory Executive,764
+134,Christopher Saran,Cashier,850
+135,Siya Taneja,Store Manager,355
+136,Mohammed Kara,Sales Executive,586
+137,Theodore Kapadia,Cashier,1138
+138,Zansi Dhar,Cashier,814
+139,Bachittar Memon,Store Manager,401
+140,Yashvi Kala,Store Manager,1063
+141,Chandran Khalsa,Inventory Executive,847
+142,Pushti Wable,Cashier,845
+143,Aarav Garg,Store Manager,150
+144,Tarak Brar,Store Manager,109
+145,Garima Oza,Store Manager,118
+146,Inaya Rege,Inventory Executive,1013
+147,Oni Baria,Sales Executive,935
+148,Xavier Badami,Inventory Executive,375
+149,Ranbir Bahl,Inventory Executive,824
+150,Jatin Sridhar,Inventory Executive,578
+151,Rishi Mishra,Inventory Executive,513
+152,Chaitanya Prashad,Cashier,673
+153,Osha Rout,Sales Executive,439
+154,Chavvi Loke,Inventory Executive,165
+155,Chavvi Jain,Cashier,41
+156,Wridesh Chopra,Sales Executive,13
+157,Eta Pandya,Inventory Executive,745
+158,Ria Kar,Inventory Executive,619
+159,Samesh Sabharwal,Inventory Executive,604
+160,Anay Aurora,Inventory Executive,130
+161,Vritti Tak,Inventory Executive,698
+162,Charita Ramachandran,Sales Executive,310
+163,Warda Pal,Cashier,23
+164,Pooja Misra,Sales Executive,403
+165,Onveer Nagarajan,Cashier,352
+166,Sanaya Khosla,Inventory Executive,763
+167,Qarin Prabhakar,Inventory Executive,1103
+168,Ria Venkatesh,Inventory Executive,161
+169,Yug Soman,Inventory Executive,556
+170,Nirja Balakrishnan,Inventory Executive,127
+171,Chasmum Bains,Store Manager,395
+172,Maanav Sidhu,Inventory Executive,810
+173,Sneha Nagy,Sales Executive,115
+174,Devika Halder,Store Manager,706
+175,Xalak Behl,Store Manager,1148
+176,Akshay Mall,Inventory Executive,720
+177,Urmi Master,Store Manager,244
+178,Warda Dey,Sales Executive,1013
+179,Bhavya Oza,Cashier,470
+180,Chandran Tella,Cashier,368
+181,Harish Contractor,Inventory Executive,957
+182,Nachiket Seshadri,Sales Executive,415
+183,Hritik Nori,Inventory Executive,856
+184,Yachana Kothari,Cashier,255
+185,Ekavir Balan,Sales Executive,1153
+186,Rajata Oak,Store Manager,910
+187,Hemani Kade,Sales Executive,324
+188,Bhavini Bhatt,Inventory Executive,842
+189,Chandran Mani,Inventory Executive,287
+190,Wyatt Trivedi,Inventory Executive,711
+191,Bimala Karpe,Store Manager,316
+192,Warinder Tripathi,Store Manager,555
+193,Charita Chana,Inventory Executive,61
+194,Libni Mistry,Store Manager,240
+195,Ishanvi Palan,Sales Executive,427
+196,Bhavani Ravel,Store Manager,663
+197,Mitali Bassi,Inventory Executive,1122
+198,Turvi Saxena,Sales Executive,177
+199,Ranbir Ramachandran,Cashier,1131
+200,Champak Kaur,Inventory Executive,1117
+201,Jeevika Narula,Cashier,90
+202,Gabriel Kalla,Cashier,285
+203,Balhaar Nagy,Store Manager,1073
+204,Adya Hans,Inventory Executive,912
+205,Gauri Borra,Sales Executive,739
+206,Tanmayi Lad,Cashier,101
+207,Imaran Dhar,Inventory Executive,852
+208,Anika Kala,Sales Executive,960
+209,Ishita Issac,Sales Executive,505
+210,Niharika Kuruvilla,Sales Executive,210
+211,Ubika Barman,Sales Executive,372
+212,Chaitanya Nayar,Cashier,53
+213,Rachana Dey,Sales Executive,514
+214,Advaith Krishnan,Store Manager,530
+215,Azaan Tak,Sales Executive,684
+216,Bakhshi Sridhar,Cashier,829
+217,Charita Kata,Sales Executive,148
+218,Niharika Pradhan,Sales Executive,1143
+219,Yutika Jha,Sales Executive,1130
+220,Leela Bera,Sales Executive,1001
+221,Sanya Garde,Inventory Executive,342
+222,Nathaniel Nazareth,Cashier,63
+223,Keya Sethi,Sales Executive,426
+224,Dakshesh Kala,Inventory Executive,78
+225,Peter Krishna,Store Manager,274
+226,Vinaya Ahuja,Sales Executive,620
+227,Rohan Sur,Store Manager,524
+228,Niharika Nigam,Sales Executive,474
+229,Ira Subramanian,Sales Executive,32
+230,Aradhana Prasad,Sales Executive,1192
+231,Unnati Chopra,Inventory Executive,506
+232,Peter Kata,Cashier,1075
+233,Quincy Salvi,Sales Executive,719
+234,Gaurangi De,Cashier,648
+235,Adya Buch,Sales Executive,582
+236,Pranit Pall,Cashier,645
+237,Azaan Mishra,Sales Executive,814
+238,Kavya Sachdev,Inventory Executive,642
+239,Rishi Nayar,Sales Executive,429
+240,Lohit Halder,Inventory Executive,115
+241,Irya Magar,Store Manager,1174
+242,Lila Ray,Inventory Executive,996
+243,Aachal Nagarajan,Sales Executive,769
+244,Nihal Mohanty,Store Manager,400
+245,Dhruv Nath,Inventory Executive,470
+246,Samaksh Sandal,Inventory Executive,512
+247,Odika Chopra,Sales Executive,835
+248,Robert Kuruvilla,Store Manager,765
+249,Bishakha Ranganathan,Sales Executive,752
+250,Jairaj Rama,Sales Executive,807
+251,Gautami Kalla,Inventory Executive,107
+252,Nachiket Atwal,Inventory Executive,671
+253,Tanish Hans,Inventory Executive,491
+254,Aryan Ahluwalia,Store Manager,1045
+255,Vedant Chand,Inventory Executive,313
+256,Pranav Kar,Sales Executive,1125
+257,Zashil Baral,Sales Executive,1073
+258,Pavani Das,Inventory Executive,277
+259,Kala Kara,Store Manager,979
+260,Chandran Saha,Store Manager,458
+261,Divya Divan,Cashier,172
+262,Kai Tailor,Store Manager,9
+263,Mitesh Modi,Cashier,1188
+264,Wridesh Chaudry,Sales Executive,439
+265,George Das,Store Manager,1168
+266,Harish Ramakrishnan,Sales Executive,88
+267,Pranav Parsa,Store Manager,554
+268,Tanvi Varughese,Sales Executive,835
+269,Gopal Tiwari,Sales Executive,99
+270,Falak Bhatt,Store Manager,639
+271,Jairaj Dubey,Store Manager,1083
+272,Frederick Viswanathan,Inventory Executive,465
+273,Mahika Sachdeva,Sales Executive,350
+274,Warjas Solanki,Store Manager,515
+275,Zilmil Issac,Store Manager,334
+276,Meera Dasgupta,Store Manager,279
+277,Kai Subramaniam,Sales Executive,1076
+278,Caleb Vyas,Sales Executive,55
+279,Darika Sidhu,Store Manager,763
+280,Nirja Date,Inventory Executive,457
+281,Fiyaz Gupta,Cashier,893
+282,Panini Andra,Store Manager,537
+283,Bhavika Parmer,Cashier,657
+284,Pratyush Chhabra,Sales Executive,787
+285,Vamakshi Krishnan,Inventory Executive,857
+286,Gayathri Bala,Cashier,430
+287,Priya Saraf,Cashier,573
+288,Chasmum Shankar,Inventory Executive,743
+289,Arjun Kohli,Inventory Executive,934
+290,Wyatt Bahl,Inventory Executive,216
+291,Wridesh Rau,Sales Executive,263
+292,Qarin Mohan,Inventory Executive,458
+293,Gaurika Kurian,Cashier,814
+294,Indali Narayanan,Cashier,402
+295,Gautami Bhatnagar,Store Manager,233
+296,Rohan Baral,Cashier,1028
+297,Ira More,Store Manager,1118
+298,Krish Kade,Inventory Executive,297
+299,Wishi Mital,Store Manager,1119
+300,Xalak Chowdhury,Inventory Executive,265
+301,Lohit Apte,Sales Executive,853
+302,Anay Saha,Sales Executive,13
+303,Pallavi Magar,Inventory Executive,145
+304,Amol Mitter,Inventory Executive,121
+305,Dalaja Mani,Store Manager,956
+306,Aayush Mani,Sales Executive,807
+307,Yadavi Solanki,Inventory Executive,732
+308,Wakeeta Bava,Inventory Executive,921
+309,Ekavir Raj,Inventory Executive,297
+310,Unni Seshadri,Sales Executive,286
+311,Bhavika Dada,Sales Executive,413
+312,Champak Gopal,Sales Executive,133
+313,Tanish De,Cashier,830
+314,Azad Nayar,Cashier,796
+315,Daksha Varma,Sales Executive,218
+316,Vivaan Sarna,Cashier,172
+317,Adweta Minhas,Store Manager,55
+318,Robert Raghavan,Sales Executive,174
+319,Urishilla Bahri,Inventory Executive,312
+320,Zehaan Bhakta,Store Manager,1100
+321,Benjamin Bhasin,Cashier,954
+322,Advaith Kale,Inventory Executive,607
+323,Radha Khare,Store Manager,204
+324,Viraj Batra,Sales Executive,128
+325,Lopa Thaker,Sales Executive,421
+326,Harinakshi Jayaraman,Sales Executive,865
+327,Amruta Dugar,Cashier,27
+328,Kabir Sahni,Sales Executive,471
+329,Bimala Apte,Inventory Executive,797
+330,Aishani Mahajan,Cashier,400
+331,Eiravati Saran,Store Manager,659
+332,Ekaja Prabhakar,Cashier,1000
+333,Gaurav Deshmukh,Inventory Executive,70
+334,Urishilla Hegde,Sales Executive,43
+335,Bhavani Thakkar,Inventory Executive,973
+336,Chakradev Chhabra,Cashier,229
+337,Faqid Kashyap,Sales Executive,1130
+338,Aahana Bajwa,Inventory Executive,877
+339,Yahvi Samra,Store Manager,224
+340,Bimala Kumer,Sales Executive,631
+341,Gautam Dey,Sales Executive,608
+342,Dhriti Bedi,Sales Executive,58
+343,Balvan Ray,Sales Executive,719
+344,Oeshi Wagle,Cashier,781
+345,Kamala Kurian,Store Manager,575
+346,Ekansh Batra,Cashier,1046
+347,Falak Sastry,Inventory Executive,677
+348,Samar Kala,Sales Executive,467
+349,Aayush Dayal,Inventory Executive,238
+350,Yashica Mishra,Cashier,728
+351,Mugdha Chandran,Cashier,1167
+352,Anmol Jha,Inventory Executive,620
+353,Ganga Bobal,Inventory Executive,833
+354,Ishani Krishna,Sales Executive,159
+355,Leena Sankaran,Inventory Executive,973
+356,Sanya Ratti,Cashier,511
+357,Mohini Singh,Sales Executive,1139
+358,Ekiya Kapoor,Store Manager,549
+359,Gaurika Sekhon,Store Manager,728
+360,Alexander Sangha,Cashier,65
+361,Champak Sampath,Sales Executive,553
+362,Owen Kibe,Sales Executive,897
+363,Hredhaan Karpe,Inventory Executive,132
+364,Nitesh Patil,Store Manager,365
+365,Rohan Sodhi,Cashier,733
+366,Leela Edwin,Store Manager,63
+367,Xalak Sandhu,Sales Executive,739
+368,Zayyan Comar,Inventory Executive,1161
+369,Yahvi Ben,Store Manager,705
+370,Urishilla Mishra,Sales Executive,704
+371,Radha Gole,Inventory Executive,98
+372,Eshana Natarajan,Inventory Executive,556
+373,Jeevika Konda,Sales Executive,655
+374,Eesha Chadha,Cashier,1078
+375,Hemani Raman,Inventory Executive,970
+376,Jagrati Kota,Cashier,964
+377,Guneet Khatri,Sales Executive,513
+378,Chanchal Ahuja,Cashier,539
+379,Leela Bose,Store Manager,598
+380,Advay Kadakia,Inventory Executive,672
+381,Kamala Chanda,Sales Executive,977
+382,Lohit Thaker,Inventory Executive,725
+383,Krish Chaudhuri,Sales Executive,1181
+384,Yasti Saha,Store Manager,401
+385,Aradhana Sanghvi,Inventory Executive,689
+386,Rajeshri Shroff,Inventory Executive,1085
+387,Krish Saha,Inventory Executive,987
+388,Leela Rout,Sales Executive,917
+389,Victor Kale,Cashier,675
+390,Shravya Ahluwalia,Cashier,336
+391,Balvan Kala,Sales Executive,1133
+392,Pranit Hans,Cashier,528
+393,Jasmit Shankar,Sales Executive,238
+394,Ridhi Bhardwaj,Cashier,791
+395,Aarna Bhavsar,Inventory Executive,401
+396,Rehaan Khalsa,Inventory Executive,373
+397,Ranveer Chadha,Store Manager,319
+398,Chandran Rao,Inventory Executive,751
+399,Aahana Baria,Store Manager,521
+400,Hemani Bose,Cashier,320
+401,Raghav Toor,Cashier,640
+402,Abhimanyu Karnik,Cashier,31
+403,Rajata Gole,Store Manager,190
+404,Warda Mukherjee,Inventory Executive,1106
+405,Jalsa Mukhopadhyay,Sales Executive,171
+406,Charvi Pillai,Store Manager,102
+407,Radhika Das,Store Manager,121
+408,Triya Dube,Cashier,793
+409,Bakhshi Wagle,Inventory Executive,95
+410,Aryan Ramaswamy,Sales Executive,1036
+411,Vedant Bir,Store Manager,971
+412,Tanvi Sharma,Sales Executive,1011
+413,Chaitaly Kumer,Cashier,1064
+414,Sathvik Deshpande,Store Manager,635
+415,Ishanvi Bhardwaj,Sales Executive,557
+416,Neel Bali,Inventory Executive,1116
+417,Laksh Mishra,Inventory Executive,851
+418,David Varty,Store Manager,1062
+419,Viraj Pau,Inventory Executive,160
+420,Gavin Bail,Sales Executive,434
+421,Ayushman Soni,Sales Executive,154
+422,Nimrat Bail,Inventory Executive,549
+423,Agastya Merchant,Sales Executive,885
+424,Henry Dhar,Cashier,822
+425,Oscar Puri,Cashier,332
+426,Lavanya D’Alia,Sales Executive,589
+427,Kala Sethi,Sales Executive,607
+428,Jeevika Kothari,Store Manager,350
+429,Chaitanya Chander,Store Manager,93
+430,Ekalinga Nadkarni,Store Manager,1169
+431,Tamanna Purohit,Store Manager,83
+432,Anay Ravel,Store Manager,269
+433,Mitali Mohanty,Store Manager,486
+434,Yashawini Singhal,Cashier,236
+435,Vedhika Taneja,Inventory Executive,250
+436,Rayaan Mohanty,Inventory Executive,185
+437,Priya Agrawal,Cashier,300
+438,Laksh Manda,Sales Executive,950
+439,Hredhaan Bal,Inventory Executive,507
+440,Aditya Kale,Sales Executive,298
+441,Oeshi Iyengar,Inventory Executive,761
+442,Isaac Puri,Sales Executive,275
+443,Ekanta Mall,Store Manager,275
+444,Darika Sahota,Cashier,189
+445,Ayaan Cherian,Inventory Executive,988
+446,Shivani Ganesh,Sales Executive,423
+447,Madhavi Mani,Sales Executive,776
+448,Amol Contractor,Store Manager,183
+449,Amara Iyengar,Store Manager,816
+450,Saumya Hayer,Store Manager,190
+451,Ekavir Mall,Sales Executive,109
+452,Neel Vala,Inventory Executive,926
+453,Rayaan Mahajan,Sales Executive,902
+454,Warinder Amble,Cashier,100
+455,Xiti Mohanty,Sales Executive,759
+456,Chaitanya Gill,Sales Executive,84
+457,Gaurika Sarraf,Inventory Executive,476
+458,Faraj Chahal,Inventory Executive,109
+459,Veda Gaba,Store Manager,599
+460,Wazir Wagle,Store Manager,826
+461,Timothy Srivastava,Sales Executive,560
+462,Chaitaly Taneja,Cashier,1182
+463,Mohammed Varty,Inventory Executive,733
+464,Lajita Sridhar,Store Manager,12
+465,Lohit Sandhu,Cashier,1148
+466,Bhavani Chakrabarti,Sales Executive,1116
+467,Saanvi Seshadri,Sales Executive,715
+468,Nandini Saraf,Store Manager,519
+469,Imaran Sampath,Inventory Executive,492
+470,Chaman Wali,Store Manager,426
+471,Aashi Majumdar,Store Manager,1134
+472,Yashodhara Loyal,Cashier,758
+473,Damini Dhaliwal,Inventory Executive,610
+474,Omisha Bora,Store Manager,613
+475,Udarsh Karnik,Store Manager,143
+476,Frado Raj,Cashier,700
+477,Tara Bora,Store Manager,166
+478,Chakradev Pai,Sales Executive,637
+479,Krishna Bail,Store Manager,642
+480,Mahika Ramachandran,Inventory Executive,437
+481,Garima Sharma,Cashier,1042
+482,Saanvi Krishnamurthy,Sales Executive,528
+483,Ronith Chada,Store Manager,953
+484,Irya Mahajan,Inventory Executive,459
+485,Mitali Badami,Sales Executive,958
+486,Abdul Dutta,Sales Executive,936
+487,Nikita Lad,Cashier,490
+488,Ranveer Majumdar,Store Manager,986
+489,Aradhana Mukhopadhyay,Inventory Executive,906
+490,Zehaan Konda,Store Manager,94
+491,Darpan Yohannan,Cashier,11
+492,Arya Natarajan,Cashier,1105
+493,Jason Basu,Inventory Executive,688
+494,Vasatika Tak,Cashier,548
+495,Shaurya Sangha,Cashier,1122
+496,Utkarsh Sarin,Sales Executive,867
+497,Logan Palla,Store Manager,590
+498,Naksh Sehgal,Store Manager,888
+499,Ekantika Ganesan,Inventory Executive,626
+500,Aarnav Varughese,Inventory Executive,449
+501,Devika Ghose,Sales Executive,136
+502,Yashoda Gokhale,Cashier,992
+503,Harish Bhardwaj,Sales Executive,696
+504,Ryan Kara,Inventory Executive,731
+505,Meghana Bhakta,Cashier,1044
+506,Rajeshri Kalla,Sales Executive,381
+507,Ishani Mahal,Sales Executive,956
+508,Jeremiah Brar,Cashier,1162
+509,Gunbir Pau,Inventory Executive,364
+510,Charvi Kothari,Store Manager,467
+511,Saksham Sura,Store Manager,1073
+512,Dayita Jaggi,Cashier,662
+513,Nandini Badal,Store Manager,580
+514,Sarthak Mammen,Cashier,1086
+515,Nidhi Guha,Inventory Executive,439
+516,Isaac Comar,Sales Executive,999
+517,Lucky Bera,Inventory Executive,676
+518,Unnati Prasad,Sales Executive,264
+519,Ridhi Kulkarni,Inventory Executive,950
+520,Ira Raman,Sales Executive,826
+521,Girindra Bora,Cashier,911
+522,Urishilla Karan,Inventory Executive,240
+523,Vinaya Chacko,Inventory Executive,191
+524,Turvi Rastogi,Sales Executive,1144
+525,Raksha Gill,Cashier,866
+526,Nicholas Bal,Inventory Executive,70
+527,Samarth Khare,Store Manager,1177
+528,Chanchal Gaba,Sales Executive,954
+529,Gayathri Nagy,Inventory Executive,651
+530,Jyoti Date,Inventory Executive,586
+531,Radhika Raju,Inventory Executive,55
+532,Xavier Garde,Inventory Executive,1104
+533,Unnati Varty,Store Manager,1111
+534,Dipta Seshadri,Inventory Executive,1009
+535,Nitesh Talwar,Sales Executive,311
+536,Azaan Oak,Store Manager,796
+537,Omaja Taneja,Inventory Executive,1077
+538,Urvi Hegde,Cashier,577
+539,Panini Edwin,Inventory Executive,933
+540,Urmi Banik,Store Manager,78
+541,Ubika Uppal,Store Manager,952
+542,Darpan Gola,Inventory Executive,761
+543,Yashawini Om,Inventory Executive,521
+544,Nimrat Rau,Inventory Executive,47
+545,Aarna Mann,Inventory Executive,816
+546,Gavin Nanda,Store Manager,851
+547,Yashasvi Boase,Sales Executive,196
+548,Irya Yogi,Store Manager,145
+549,Chandani Som,Sales Executive,374
+550,Nikita Dani,Inventory Executive,1094
+551,Chakradhar Goswami,Sales Executive,122
+552,Noah Deep,Inventory Executive,980
+553,Eiravati Sen,Store Manager,969
+554,Pooja Bhatia,Sales Executive,453
+555,Damyanti Chakraborty,Inventory Executive,1046
+556,Harshil Butala,Inventory Executive,928
+557,Ekiya Kohli,Store Manager,1178
+558,Alka Deep,Sales Executive,568
+559,Falguni Shenoy,Sales Executive,977
+560,Xiti Dass,Cashier,5
+561,Hemal Guha,Sales Executive,512
+562,Aahana Andra,Cashier,303
+563,Osha Saxena,Cashier,1007
+564,Pallavi Kaul,Store Manager,725
+565,Urvi Sehgal,Store Manager,1190
+566,Tanmayi Joshi,Sales Executive,48
+567,Bhavya Deshmukh,Sales Executive,946
+568,Krishna Handa,Store Manager,344
+569,Faraj Bakshi,Cashier,685
+570,Januja Desai,Inventory Executive,22
+571,Rehaan Kumar,Cashier,822
+572,Hamsini Setty,Cashier,499
+573,Aarna Munshi,Inventory Executive,383
+574,Chaitanya Sarma,Cashier,885
+575,Rudra Bhat,Store Manager,191
+576,Nakul Dasgupta,Cashier,228
+577,Anamika Khare,Inventory Executive,206
+578,Harshil Gupta,Sales Executive,159
+579,Aarna Dua,Store Manager,184
+580,Vasudha Kapoor,Sales Executive,1085
+581,Yatan Varty,Inventory Executive,802
+582,Qabil Palla,Store Manager,656
+583,Bachittar Rana,Inventory Executive,856
+584,Lakshit Lalla,Cashier,64
+585,Zansi Gola,Inventory Executive,963
+586,Yashodhara Chadha,Sales Executive,889
+587,Ranbir Dugal,Cashier,659
+588,Nilima Chacko,Inventory Executive,279
+589,Lila Savant,Cashier,758
+590,Eshana Kala,Store Manager,887
+591,Ekbal Zacharia,Store Manager,93
+592,Nisha Patla,Store Manager,451
+593,Damyanti Majumdar,Cashier,868
+594,Yashawini Rai,Store Manager,696
+595,Urvi Solanki,Inventory Executive,713
+596,Tarak Sami,Cashier,165
+597,Faras Bahl,Store Manager,379
+598,Reyansh Dyal,Sales Executive,180
+599,Jagat Sridhar,Cashier,532
+600,Sathvik Narula,Sales Executive,517
+601,Faraj Mani,Store Manager,696
+602,Harinakshi Narayan,Sales Executive,767
+603,Manya Sur,Sales Executive,1059
+604,Jagrati Tripathi,Sales Executive,244
+605,Rajata Narain,Cashier,349
+606,Nachiket Sinha,Inventory Executive,48
+607,Yasti Rout,Cashier,3
+608,Rajeshri Lanka,Sales Executive,273
+609,Benjamin Sachdeva,Store Manager,314
+610,Dalaja Bakshi,Sales Executive,937
+611,Yoshita Vaidya,Cashier,576
+612,Yahvi Kumar,Cashier,1048
+613,Krishna Mukhopadhyay,Inventory Executive,588
+614,Urvi Boase,Inventory Executive,971
+615,Fiyaz Samra,Store Manager,765
+616,Libni Lalla,Store Manager,87
+617,Alka Mohanty,Inventory Executive,572
+618,Vaishnavi Mittal,Sales Executive,714
+619,Agastya Doctor,Inventory Executive,247
+620,Omkaar Bassi,Sales Executive,840
+621,Reyansh Kunda,Cashier,418
+622,Gauri Mammen,Store Manager,584
+623,Sai Handa,Store Manager,540
+624,Peter Vig,Cashier,956
+625,Naveen Panchal,Cashier,1199
+626,Advika Pant,Cashier,369
+627,Oliver Pandya,Sales Executive,619
+628,Gaurika Dada,Store Manager,359
+629,Jacob Bose,Sales Executive,643
+630,William Bhagat,Sales Executive,566
+631,Kalpit Tank,Sales Executive,1033
+632,Yash Menon,Cashier,794
+633,Tristan Narula,Sales Executive,347
+634,Nachiket Char,Store Manager,1177
+635,Neelima Bose,Store Manager,168
+636,Dayita Rattan,Cashier,734
+637,Urishilla Kar,Sales Executive,173
+638,Naksh Khosla,Cashier,1097
+639,Rajeshri Peri,Sales Executive,1196
+640,Dhruv Rama,Cashier,719
+641,Jagrati Randhawa,Store Manager,1139
+642,Wishi Saxena,Cashier,4
+643,Logan Maharaj,Store Manager,288
+644,Falan Sarin,Inventory Executive,1063
+645,Oni Suri,Store Manager,68
+646,Janya Savant,Sales Executive,545
+647,Hemangini Kaur,Store Manager,458
+648,Chatura Buch,Store Manager,928
+649,Yashoda Shetty,Store Manager,1187
+650,Oviya Bhat,Store Manager,447
+651,Gautami Boase,Cashier,483
+652,Nidra Gade,Cashier,143
+653,Avi Sani,Cashier,1057
+654,Yutika Srivastava,Sales Executive,416
+655,Libni Wali,Cashier,708
+656,Neha Nigam,Sales Executive,1154
+657,Lucky Varty,Cashier,1143
+658,Yatan Jani,Sales Executive,57
+659,Chanchal Zacharia,Store Manager,128
+660,Tamanna Sandhu,Store Manager,766
+661,Tamanna Nayak,Store Manager,1015
+662,Utkarsh Yohannan,Sales Executive,1059
+663,Vrishti Sha,Cashier,454
+664,Chatresh Gole,Cashier,730
+665,Sarthak Sampath,Store Manager,1152
+666,Vritti Reddy,Sales Executive,117
+667,Aradhana Walla,Inventory Executive,328
+668,Rayaan Yohannan,Cashier,192
+669,Jatin Trivedi,Cashier,510
+670,Omya Pradhan,Store Manager,149
+671,Jagat Nagar,Cashier,315
+672,Xavier Puri,Store Manager,654
+673,Jeet Kaul,Sales Executive,632
+674,Gunbir Mitter,Inventory Executive,151
+675,Wakeeta Datta,Store Manager,1034
+676,Mekhala Bajaj,Cashier,556
+677,Eshana Varghese,Store Manager,504
+678,Chandani Parmar,Sales Executive,1032
+679,Joshua Devan,Sales Executive,820
+680,Sanya Jayaraman,Sales Executive,543
+681,Jason Dewan,Store Manager,735
+682,Vedant Kurian,Store Manager,433
+683,Ekapad Chana,Store Manager,484
+684,Manbir Kumer,Sales Executive,702
+685,Nirja Sankar,Inventory Executive,243
+686,Pushti Kulkarni,Sales Executive,402
+687,Varenya Saini,Store Manager,4
+688,Vincent Subramanian,Sales Executive,627
+689,Raagini Sidhu,Sales Executive,395
+690,Pratyush Bhatt,Store Manager,347
+691,Widisha Chadha,Cashier,1150
+692,Amrita Nagi,Store Manager,112
+693,Charita Babu,Cashier,117
+694,Fiyaz Ramesh,Store Manager,687
+695,Janya Chaudhry,Inventory Executive,767
+696,Charan Dhingra,Cashier,844
+697,Yashasvi Bali,Cashier,481
+698,Viraj Sandal,Sales Executive,4
+699,Charita Sachar,Inventory Executive,652
+700,Bhavini Master,Cashier,565
+701,Jyoti Natt,Inventory Executive,781
+702,Yug Bumb,Sales Executive,823
+703,Yashica Tak,Inventory Executive,364
+704,Jeremiah Kanda,Store Manager,1030
+705,Prisha Maharaj,Store Manager,863
+706,Akshay Swaminathan,Sales Executive,686
+707,Wridesh Sagar,Cashier,505
+708,Ishita Nagy,Cashier,995
+709,Tanvi Dhingra,Cashier,137
+710,Chaman Patla,Inventory Executive,358
+711,Ira Dalal,Store Manager,102
+712,Upma Khare,Sales Executive,768
+713,Hemani Tella,Cashier,832
+714,Frado Mand,Inventory Executive,1060
+715,Radhika Baria,Inventory Executive,611
+716,Ayush Wason,Store Manager,46
+717,Devansh Peri,Cashier,950
+718,Lipika Deshmukh,Store Manager,491
+719,Edhitha Parmer,Store Manager,1166
+720,Varsha Muni,Inventory Executive,352
+721,Aarnav Pandey,Cashier,788
+722,Widisha Balakrishnan,Sales Executive,179
+723,Gautam Rajagopal,Store Manager,338
+724,Manya Butala,Inventory Executive,29
+725,Avni Kumar,Cashier,465
+726,Hitesh Kade,Cashier,392
+727,Zarna Venkatesh,Store Manager,428
+728,Aarnav Magar,Sales Executive,92
+729,Oviya Mutti,Inventory Executive,627
+730,Meghana Garde,Store Manager,320
+731,Girindra Shanker,Inventory Executive,288
+732,Upasna Joshi,Store Manager,125
+733,Anvi Upadhyay,Store Manager,503
+734,Tanish Sani,Cashier,175
+735,Hiral Lall,Store Manager,636
+736,Forum Raval,Sales Executive,743
+737,Mitali Chopra,Inventory Executive,376
+738,Jeet Vyas,Inventory Executive,277
+739,Yuvraj Chauhan,Cashier,614
+740,Krish Dugar,Store Manager,1120
+741,Raksha Dhawan,Sales Executive,968
+742,Chaaya Iyer,Cashier,401
+743,Dhriti Brar,Cashier,928
+744,Idika Radhakrishnan,Inventory Executive,318
+745,Shivansh Dhar,Store Manager,108
+746,Aadhya Thakkar,Sales Executive,340
+747,Harish Mani,Store Manager,691
+748,Sachi Bhatt,Inventory Executive,898
+749,Indrajit Chander,Sales Executive,490
+750,Kalpit Bora,Inventory Executive,273
+751,Ayaan Venkatesh,Cashier,648
+752,Aarush Ratti,Inventory Executive,357
+753,Vasudha Sagar,Inventory Executive,1200
+754,Chakradhar Majumdar,Store Manager,632
+755,Avi Narang,Inventory Executive,1008
+756,Nimrat D’Alia,Cashier,961
+757,Yasti Mutti,Store Manager,1196
+758,Harini Vasa,Inventory Executive,876
+759,Nitesh Banik,Store Manager,268
+760,Libni Vohra,Sales Executive,959
+761,Chanakya Madan,Cashier,521
+762,Shaurya Nori,Inventory Executive,501
+763,Rachana Kuruvilla,Sales Executive,45
+764,Yatan Kata,Sales Executive,724
+765,Onveer Sarraf,Cashier,14
+766,Hiral Gala,Store Manager,716
+767,Andrew More,Cashier,376
+768,Zilmil Kalita,Cashier,5
+769,Shivansh Ramanathan,Inventory Executive,547
+770,Nachiket Padmanabhan,Inventory Executive,283
+771,Sai Patil,Cashier,775
+772,Reyansh Ben,Sales Executive,864
+773,Avi Hari,Sales Executive,898
+774,Samuel Bassi,Cashier,1168
+775,Rajeshri Varughese,Store Manager,496
+776,Daksh Barad,Cashier,59
+777,Upma Banerjee,Inventory Executive,864
+778,Charita Mand,Sales Executive,1037
+779,Vrinda Vasa,Sales Executive,1176
+780,Harshil Naidu,Sales Executive,949
+781,Kiaan Krish,Sales Executive,1057
+782,Isaiah Brahmbhatt,Sales Executive,314
+783,Aayush Sur,Inventory Executive,1087
+784,Karan Tiwari,Inventory Executive,538
+785,Oscar Tara,Cashier,236
+786,Charles Chatterjee,Store Manager,797
+787,Anita Iyer,Inventory Executive,468
+788,Aachal Gour,Cashier,631
+789,Wazir Kumar,Sales Executive,99
+790,Kamala Ravi,Sales Executive,55
+791,Madhav Majumdar,Sales Executive,419
+792,Mahika Cherian,Cashier,124
+793,Theodore Kapur,Sales Executive,261
+794,Upadhriti Borah,Inventory Executive,559
+795,Ishaan Rana,Inventory Executive,394
+796,Meera Bhat,Inventory Executive,488
+797,Anya Narang,Store Manager,1112
+798,Damyanti Pal,Store Manager,1143
+799,Garima Warrior,Store Manager,436
+800,Baljiwan Chadha,Inventory Executive,532
+801,Vasatika Halder,Sales Executive,432
+802,Nimrat Loke,Store Manager,633
+803,Mitali Bansal,Inventory Executive,1030
+804,Vanya Om,Sales Executive,937
+805,Joshua Vora,Cashier,493
+806,David Badami,Cashier,914
+807,Wridesh Sangha,Inventory Executive,745
+808,Logan Kale,Cashier,67
+809,Bakhshi Natt,Store Manager,7
+810,Rachit Das,Inventory Executive,438
+811,Bhavika Patel,Sales Executive,777
+812,Jagrati Uppal,Cashier,894
+813,Aadi Saxena,Cashier,918
+814,Praneel Chadha,Inventory Executive,693
+815,Nikita Issac,Cashier,123
+816,Kevin Hegde,Inventory Executive,604
+817,Aryan Varma,Cashier,865
+818,Keya Krish,Sales Executive,825
+819,Yuvraj Hayer,Store Manager,3
+820,Hitesh Gade,Store Manager,777
+821,Samesh Borra,Sales Executive,949
+822,Quincy Tella,Store Manager,862
+823,Robert Bhavsar,Inventory Executive,853
+824,Wahab Ray,Sales Executive,306
+825,Oscar Sampath,Store Manager,1159
+826,Kai Sawhney,Inventory Executive,587
+827,Krish Baria,Inventory Executive,316
+828,Jagrati Narayanan,Sales Executive,143
+829,Yashica Karpe,Store Manager,624
+830,Hiral Amble,Store Manager,127
+831,Jackson Kuruvilla,Sales Executive,988
+832,Chandani Ahluwalia,Cashier,833
+833,Parth Korpal,Sales Executive,325
+834,Anay Bahri,Sales Executive,1064
+835,Gavin Johal,Inventory Executive,40
+836,Ethan Master,Cashier,312
+837,Ati Shah,Store Manager,919
+838,Yamini Keer,Inventory Executive,790
+839,Chavvi Sibal,Inventory Executive,990
+840,Omkaar Jayaraman,Store Manager,989
+841,Zilmil Arora,Sales Executive,571
+842,Advik Anne,Cashier,755
+843,Anamika Behl,Inventory Executive,373
+844,Veda Gaba,Sales Executive,552
+845,Mitesh Viswanathan,Cashier,964
+846,Adya Tank,Store Manager,473
+847,Benjamin Mukhopadhyay,Sales Executive,215
+848,Thomas Vasa,Inventory Executive,170
+849,Dhruv Bansal,Cashier,989
+850,Leela Gaba,Store Manager,336
+851,Saksham Desai,Inventory Executive,62
+852,Aditya Patel,Sales Executive,778
+853,Kala Saha,Inventory Executive,252
+854,Alexander Sarna,Sales Executive,749
+855,Yutika Master,Store Manager,987
+856,Zilmil Zachariah,Inventory Executive,42
+857,Daniel Khare,Inventory Executive,247
+858,Anusha Gala,Cashier,908
+859,Odika Vohra,Sales Executive,345
+860,Owen Tandon,Inventory Executive,470
+861,Kalpit Kar,Cashier,437
+862,Akshay Badami,Cashier,386
+863,Fariq Sodhi,Store Manager,1102
+864,Nakul Dar,Sales Executive,606
+865,Saumya Pingle,Store Manager,172
+866,Adya Sen,Inventory Executive,1177
+867,Reva Sani,Cashier,61
+868,Charita Tak,Store Manager,877
+869,Neha Madan,Cashier,721
+870,Jeremiah Bhagat,Store Manager,748
+871,Viraj Dutta,Inventory Executive,395
+872,Radha Kari,Inventory Executive,1100
+873,Anirudh Bala,Sales Executive,578
+874,Anjali Magar,Cashier,670
+875,Shivani Thakur,Inventory Executive,745
+876,Eta Char,Cashier,1168
+877,Warinder Goel,Sales Executive,597
+878,Zaitra Andra,Store Manager,86
+879,Mitesh Butala,Sales Executive,179
+880,Ucchal Singhal,Store Manager,1085
+881,Rudra Koshy,Store Manager,608
+882,Harinakshi Sehgal,Sales Executive,661
+883,Edhitha Chopra,Sales Executive,1114
+884,Pallavi Basak,Cashier,1076
+885,Hemani Biswas,Sales Executive,59
+886,Faqid Shere,Store Manager,132
+887,Patrick Char,Sales Executive,241
+888,Faris Patel,Sales Executive,925
+889,Sai Sarma,Sales Executive,697
+890,Yauvani Iyengar,Cashier,1173
+891,Bimala Krish,Cashier,768
+892,Jagat Cherian,Cashier,508
+893,Jonathan Gandhi,Inventory Executive,413
+894,Kiaan Grover,Cashier,308
+895,Varenya Chakrabarti,Inventory Executive,200
+896,Veer Raj,Store Manager,1179
+897,Advay Pandya,Inventory Executive,713
+898,Girik Goyal,Inventory Executive,337
+899,Amol Nigam,Store Manager,1199
+900,Lavanya Devan,Store Manager,713
+901,Nathaniel Goswami,Store Manager,1112
+902,Ira Bava,Inventory Executive,692
+903,Ucchal Bhavsar,Inventory Executive,412
+904,Triya Prabhakar,Sales Executive,689
+905,Lohit Nadkarni,Cashier,433
+906,Isaac Mutti,Cashier,98
+907,Netra Kaur,Inventory Executive,847
+908,Krish Rai,Sales Executive,931
+909,Veda Memon,Store Manager,716
+910,Zashil Guha,Cashier,236
+911,Omya Iyer,Cashier,200
+912,Advaith Kata,Sales Executive,750
+913,Veda Kala,Cashier,193
+914,Inaya Agrawal,Inventory Executive,835
+915,Gautam Kumer,Inventory Executive,831
+916,Nikita Dua,Store Manager,318
+917,Chanchal Cheema,Sales Executive,129
+918,Karan Lalla,Sales Executive,524
+919,Finn Mohan,Cashier,245
+920,Anthony Bandi,Inventory Executive,753
+921,Vivaan Mukhopadhyay,Inventory Executive,104
+922,Yagnesh Kakar,Cashier,637
+923,Yadavi Chakrabarti,Inventory Executive,938
+924,Alka Jaggi,Store Manager,817
+925,Laksh Samra,Cashier,2
+926,Ridhi Oza,Cashier,139
+927,Tripti Manda,Inventory Executive,344
+928,Jagat Prashad,Cashier,710
+929,Warjas Cherian,Sales Executive,1122
+930,Oeshi Oak,Sales Executive,429
+931,Ayush Kade,Store Manager,989
+932,Gopal Mahal,Store Manager,543
+933,Abha Agarwal,Inventory Executive,25
+934,Mason Sabharwal,Inventory Executive,869
+935,Patrick Wadhwa,Sales Executive,654
+936,Aayush Sem,Sales Executive,1044
+937,Hamsini Mutti,Inventory Executive,873
+938,Sai Kapadia,Cashier,31
+939,Nilima Mistry,Store Manager,554
+940,Damyanti Ghosh,Inventory Executive,282
+941,Amaira Hari,Cashier,931
+942,Viraj Sridhar,Sales Executive,119
+943,Bhavini Shere,Cashier,1094
+944,Samuel Shah,Store Manager,818
+945,Gaurang Konda,Inventory Executive,777
+946,Adweta Issac,Store Manager,202
+947,Anthony Banerjee,Inventory Executive,720
+948,Ekaja Prasad,Sales Executive,485
+949,Mitesh Badal,Store Manager,812
+950,Bhavya Gour,Inventory Executive,779
+951,Eiravati Saha,Inventory Executive,925
+952,Wakeeta Deshmukh,Cashier,448
+953,Naveen Acharya,Inventory Executive,177
+954,David Munshi,Sales Executive,241
+955,Sanya Lanka,Inventory Executive,1141
+956,Shivansh Chandra,Store Manager,535
+957,Chandresh Ghosh,Cashier,174
+958,Laban Sami,Inventory Executive,543
+959,Gaurav Ray,Inventory Executive,507
+960,Ayushman Vasa,Cashier,1116
+961,Adweta Singh,Sales Executive,1192
+962,Lajita Suresh,Store Manager,1105
+963,Ranveer Hayre,Sales Executive,218
+964,Dayita Dasgupta,Store Manager,550
+965,Praneel Kakar,Sales Executive,942
+966,Zilmil Sanghvi,Cashier,1156
+967,Advaith Mani,Sales Executive,877
+968,Nakul Dasgupta,Inventory Executive,957
+969,Chasmum Dewan,Inventory Executive,623
+970,Kiaan Viswanathan,Store Manager,163
+971,Utkarsh Raju,Store Manager,216
+972,Aashi Bhatt,Inventory Executive,671
+973,Adweta Rege,Store Manager,1121
+974,Benjamin Gopal,Cashier,275
+975,Tristan Misra,Cashier,354
+976,Netra Bera,Cashier,1084
+977,Hemani Ganesh,Inventory Executive,549
+978,Samesh Kota,Sales Executive,949
+979,Raagini Swaminathan,Cashier,530
+980,Sara Kashyap,Inventory Executive,358
+981,Charita Dalal,Store Manager,104
+982,Aadhya Prashad,Sales Executive,260
+983,Hemangini Tata,Inventory Executive,619
+984,Irya Das,Inventory Executive,1007
+985,Ayushman Savant,Sales Executive,233
+986,Meghana Seth,Cashier,1134
+987,Girish Dhaliwal,Store Manager,661
+988,Peter Jhaveri,Cashier,215
+989,Ijaya Varma,Inventory Executive,823
+990,Yadavi Kari,Inventory Executive,616
+991,Anvi Chaudry,Store Manager,855
+992,Vanya Batta,Cashier,1002
+993,Radha Bhardwaj,Inventory Executive,989
+994,Samar Gupta,Inventory Executive,854
+995,Banjeet Dhaliwal,Cashier,69
+996,Ayaan Korpal,Store Manager,1149
+997,Viraj Merchant,Inventory Executive,480
+998,Oscar Bhat,Store Manager,939
+999,Xalak Chand,Sales Executive,673
+1000,Kashvi Ranganathan,Inventory Executive,231
+1001,Sai Menon,Sales Executive,1130
+1002,Aryan Swaminathan,Cashier,8
+1003,Nimrat Bhakta,Inventory Executive,574
+1004,Krishna Sengupta,Sales Executive,890
+1005,Logan Karan,Inventory Executive,114
+1006,Hiral Krish,Sales Executive,1042
+1007,Patrick Dhar,Cashier,65
+1008,Bishakha Mall,Sales Executive,68
+1009,Udant Dhaliwal,Inventory Executive,1138
+1010,Ucchal Mani,Store Manager,585
+1011,Chaitanya Wable,Inventory Executive,806
+1012,Lipika Iyer,Inventory Executive,523
+1013,Hemal Narasimhan,Sales Executive,448
+1014,Zaid Chatterjee,Inventory Executive,691
+1015,Nathan Murty,Inventory Executive,177
+1016,Indali Vasa,Cashier,51
+1017,Qabil Jhaveri,Sales Executive,22
+1018,Qasim Bala,Inventory Executive,13
+1019,Leena Kumer,Store Manager,485
+1020,Yatan Barad,Inventory Executive,990
+1021,George Bassi,Store Manager,802
+1022,Gauri Singhal,Store Manager,722
+1023,Raghav Gour,Store Manager,894
+1024,Leena Bal,Inventory Executive,127
+1025,Ridhi Padmanabhan,Cashier,894
+1026,Nachiket Doctor,Cashier,94
+1027,Azaan Chacko,Store Manager,1060
+1028,Yachana Mishra,Sales Executive,398
+1029,Qadim Deol,Cashier,374
+1030,Vincent Wason,Sales Executive,563
+1031,Dayamai Naik,Sales Executive,90
+1032,Xavier Chaudhari,Sales Executive,831
+1033,Eesha Joshi,Sales Executive,507
+1034,Hitesh Gole,Inventory Executive,990
+1035,Zinal Bhalla,Store Manager,447
+1036,Oliver Parikh,Inventory Executive,1065
+1037,Upadhriti Chhabra,Inventory Executive,399
+1038,Yochana Minhas,Inventory Executive,532
+1039,Aayush Chaudhuri,Sales Executive,911
+1040,Lohit Shere,Cashier,347
+1041,Bakhshi Sankar,Sales Executive,407
+1042,Dhriti Badal,Cashier,859
+1043,Irya Krishna,Store Manager,337
+1044,Sai Sekhon,Store Manager,1069
+1045,Robert Gola,Inventory Executive,929
+1046,Yashawini Bhargava,Inventory Executive,425
+1047,Yagnesh De,Cashier,241
+1048,Veda Kari,Sales Executive,1072
+1049,Jack Raja,Store Manager,490
+1050,Ishani Nadig,Store Manager,617
+1051,Timothy Joshi,Sales Executive,308
+1052,Hema Barman,Cashier,203
+1053,Girindra Om,Sales Executive,971
+1054,Suhani Shetty,Cashier,653
+1055,Lekha Parekh,Inventory Executive,1130
+1056,Jagat Mital,Store Manager,599
+1057,Unnati Sagar,Store Manager,199
+1058,Unnati Vala,Sales Executive,547
+1059,Lakshmi Balan,Store Manager,721
+1060,Udarsh Sidhu,Inventory Executive,622
+1061,Yauvani Keer,Sales Executive,47
+1062,Hitesh Char,Cashier,863
+1063,Inaya Mishra,Sales Executive,70
+1064,Gavin Deshmukh,Inventory Executive,236
+1065,Yatin Chaudhary,Cashier,1178
+1066,Kamya Bedi,Cashier,529
+1067,Ikshita Dugar,Store Manager,477
+1068,Girik Mallick,Inventory Executive,384
+1069,Avi Ravi,Sales Executive,1149
+1070,Pallavi Walla,Inventory Executive,1022
+1071,Balhaar Koshy,Cashier,103
+1072,Keya Kade,Cashier,678
+1073,Rohan Anand,Sales Executive,1101
+1074,Abdul Chopra,Inventory Executive,995
+1075,Henry Chawla,Sales Executive,765
+1076,Dalaja Tailor,Inventory Executive,595
+1077,Tanmayi Vyas,Sales Executive,436
+1078,Harish Khatri,Sales Executive,297
+1079,Vedika Tripathi,Inventory Executive,832
+1080,Idika Thakur,Cashier,294
+1081,Hiral Biswas,Inventory Executive,205
+1082,Dipta Taneja,Inventory Executive,401
+1083,Vrishti Parikh,Sales Executive,1140
+1084,Tara Pathak,Inventory Executive,810
+1085,Jagat Kara,Sales Executive,377
+1086,Ayushman Doctor,Sales Executive,1145
+1087,Girindra Swamy,Cashier,1067
+1088,Amruta Deep,Store Manager,1063
+1089,Yadavi Dash,Inventory Executive,543
+1090,Naksh Nagy,Cashier,866
+1091,Anamika Verma,Inventory Executive,764
+1092,Keya Lanka,Inventory Executive,241
+1093,Anusha Mani,Inventory Executive,770
+1094,Laksh Loke,Store Manager,183
+1095,Vasatika Oza,Inventory Executive,331
+1096,Vedhika Arora,Inventory Executive,815
+1097,Fiyaz Iyengar,Cashier,937
+1098,Aryan Malhotra,Inventory Executive,893
+1099,Frado Pau,Inventory Executive,313
+1100,Jasmit Apte,Sales Executive,839
+1101,Girik Chaudhari,Store Manager,864
+1102,Benjamin Tak,Sales Executive,124
+1103,Jagvi Dass,Cashier,936
+1104,Nikita Uppal,Cashier,617
+1105,Yashoda Mistry,Inventory Executive,17
+1106,Xalak Muni,Store Manager,783
+1107,Arin Borra,Cashier,145
+1108,Brijesh Sarraf,Cashier,60
+1109,Leena Halder,Sales Executive,126
+1110,Harsh Chawla,Store Manager,558
+1111,Triveni Tata,Cashier,778
+1112,Anjali Kant,Inventory Executive,935
+1113,Krish Deo,Store Manager,1092
+1114,Panini Kashyap,Cashier,243
+1115,Ekiya Raman,Store Manager,1048
+1116,Jatin Bhasin,Store Manager,1138
+1117,Baghyawati Lall,Store Manager,85
+1118,Onkar Sachar,Sales Executive,962
+1119,Ganga Jaggi,Cashier,742
+1120,Balhaar Kunda,Sales Executive,165
+1121,Matthew Edwin,Sales Executive,64
+1122,Andrew Chopra,Store Manager,188
+1123,Sathvik De,Inventory Executive,1121
+1124,Rayaan Kar,Store Manager,1089
+1125,Balvan Goel,Sales Executive,464
+1126,Darpan Reddy,Sales Executive,384
+1127,Advaith Mital,Cashier,647
+1128,Fiyaz Randhawa,Inventory Executive,902
+1129,Christopher Mitra,Inventory Executive,853
+1130,Gaurav Acharya,Cashier,829
+1131,Patrick Bora,Inventory Executive,13
+1132,Nitara Zacharia,Cashier,881
+1133,Chaaya Mandal,Store Manager,756
+1134,Wriddhish Sarin,Inventory Executive,352
+1135,Lohit Saha,Inventory Executive,957
+1136,Dayamai Atwal,Sales Executive,880
+1137,Fiyaz Goda,Store Manager,636
+1138,Banjeet Dhingra,Store Manager,729
+1139,Naksh Halder,Sales Executive,251
+1140,Ladli Lad,Inventory Executive,1093
+1141,Omya Panchal,Cashier,255
+1142,Indira Parmar,Inventory Executive,551
+1143,Oviya Keer,Inventory Executive,105
+1144,Harinakshi Shenoy,Inventory Executive,802
+1145,Falan Chakrabarti,Store Manager,139
+1146,Indrajit Char,Sales Executive,434
+1147,Balhaar Rai,Sales Executive,918
+1148,Madhav Mander,Store Manager,704
+1149,Netra Lal,Sales Executive,719
+1150,Ekaraj Tandon,Sales Executive,624
+1151,Maanav Karpe,Inventory Executive,769
+1152,Chaman Loyal,Cashier,836
+1153,Naveen Gupta,Cashier,1159
+1154,Tara Viswanathan,Inventory Executive,1092
+1155,Vanya Pal,Sales Executive,861
+1156,Champak Nigam,Cashier,204
+1157,Xiti Seth,Store Manager,308
+1158,Wakeeta Pal,Store Manager,169
+1159,Abdul Sen,Sales Executive,1099
+1160,Jagvi Chadha,Cashier,906
+1161,Raksha Sandhu,Sales Executive,322
+1162,Hemal Mani,Sales Executive,379
+1163,Ranveer Bedi,Cashier,580
+1164,Kalpit Sahni,Cashier,323
+1165,Suhani Lad,Sales Executive,446
+1166,Ekta Krishnamurthy,Cashier,320
+1167,Ishita Chander,Cashier,751
+1168,Charvi Hegde,Store Manager,1101
+1169,Quincy Suresh,Sales Executive,172
+1170,Onkar Ramakrishnan,Inventory Executive,276
+1171,Anthony Sangha,Sales Executive,221
+1172,Lopa Kala,Cashier,807
+1173,Elijah Ramaswamy,Store Manager,1197
+1174,Veda Badami,Inventory Executive,662
+1175,Tanmayi Bhatti,Cashier,256
+1176,Yoshita Kashyap,Cashier,305
+1177,Frado D’Alia,Cashier,332
+1178,Sai Sundaram,Sales Executive,621
+1179,Jack Swamy,Sales Executive,606
+1180,Bhavani Pall,Sales Executive,580
+1181,Anthony Modi,Cashier,310
+1182,Ekapad Ben,Inventory Executive,741
+1183,Samar Wable,Store Manager,779
+1184,Yatan Radhakrishnan,Sales Executive,638
+1185,Madhav Sodhi,Store Manager,781
+1186,Sanaya Narain,Cashier,378
+1187,Balvan Ramesh,Store Manager,1178
+1188,Advika Kapoor,Sales Executive,222
+1189,Naveen Pall,Cashier,113
+1190,Vedhika Munshi,Sales Executive,872
+1191,Raksha Guha,Store Manager,688
+1192,Tristan Khanna,Store Manager,871
+1193,Jason Shenoy,Sales Executive,995
+1194,Yauvani Mital,Inventory Executive,270
+1195,Urvi Shenoy,Cashier,968
+1196,Gaurav Behl,Cashier,1199
+1197,Mason Tank,Sales Executive,797
+1198,Finn Palan,Store Manager,115
+1199,Janaki Brar,Cashier,575
+1200,Nisha Chaudhari,Inventory Executive,291
+1201,Samuel Gulati,Inventory Executive,766
+1202,Vrishti Varghese,Cashier,865
+1203,Naveen Sood,Inventory Executive,75
+1204,Aadi Manda,Inventory Executive,60
+1205,Oscar Puri,Cashier,936
+1206,Jagvi Nagi,Cashier,1030
+1207,Jeet Konda,Cashier,670
+1208,Gopal Sankaran,Sales Executive,188
+1209,Prisha Kakar,Store Manager,783
+1210,Daksha Oommen,Cashier,693
+1211,Ekaja Dyal,Inventory Executive,174
+1212,Varsha Barad,Store Manager,537
+1213,Timothy Ramesh,Sales Executive,1184
+1214,Samaksh Sem,Inventory Executive,1076
+1215,Daksha Mitra,Cashier,635
+1216,Chanakya Sagar,Store Manager,365
+1217,Matthew Mann,Store Manager,871
+1218,Yatan Raval,Store Manager,426
+1219,Meera Dada,Sales Executive,484
+1220,Imaran Bir,Cashier,929
+1221,Dev Bhavsar,Cashier,864
+1222,Yadavi Bhatt,Cashier,513
+1223,Samuel Guha,Store Manager,386
+1224,Rachana Bobal,Inventory Executive,1188
+1225,Hardik Dhar,Inventory Executive,635
+1226,Onveer Bumb,Inventory Executive,78
+1227,Owen Varty,Inventory Executive,697
+1228,Yochana Chanda,Sales Executive,263
+1229,Vedant Ghose,Cashier,132
+1230,Chaaya Sur,Store Manager,139
+1231,Gauri Sawhney,Sales Executive,693
+1232,Kashvi Kanda,Cashier,849
+1233,Naveen Hari,Cashier,308
+1234,Chakradhar Rama,Cashier,1029
+1235,Aadi Chaudhari,Store Manager,587
+1236,Farhan Aggarwal,Inventory Executive,1128
+1237,Vyanjana Borde,Sales Executive,457
+1238,Ria Choudhary,Inventory Executive,277
+1239,Bhanumati Patel,Cashier,615
+1240,Hema Chokshi,Sales Executive,885
+1241,Divya Bandi,Store Manager,587
+1242,Xalak Bedi,Sales Executive,927
+1243,Kritika Johal,Store Manager,510
+1244,Christopher Saxena,Inventory Executive,338
+1245,Jonathan Ghose,Store Manager,529
+1246,Radhika Prabhu,Cashier,1148
+1247,Veda Dave,Cashier,101
+1248,Hemani Sama,Inventory Executive,1088
+1249,Vasana Sengupta,Inventory Executive,411
+1250,Ekta Vohra,Sales Executive,240
+1251,Pushti Singh,Store Manager,497
+1252,Darsh Baria,Store Manager,1165
+1253,Harita Golla,Cashier,382
+1254,Triveni Raghavan,Store Manager,851
+1255,Aadi Halder,Store Manager,999
+1256,Oscar Rajan,Sales Executive,1124
+1257,Yutika Krishna,Sales Executive,494
+1258,Balvan Bera,Sales Executive,565
+1259,Naksh Yadav,Sales Executive,29
+1260,Ronith Gokhale,Store Manager,294
+1261,Fariq Sharaf,Cashier,376
+1262,Chasmum Chad,Store Manager,616
+1263,Gavin Bedi,Cashier,851
+1264,Charan Borde,Cashier,1161
+1265,Dhruv Chaudhary,Cashier,559
+1266,Chaman Kanda,Cashier,116
+1267,Anika Aurora,Store Manager,204
+1268,Vedika Patil,Sales Executive,565
+1269,Bina Khatri,Cashier,95
+1270,Aarna Sridhar,Store Manager,783
+1271,Om Din,Sales Executive,411
+1272,Lakshit Kapur,Inventory Executive,830
+1273,Hemangini Nadig,Sales Executive,231
+1274,Rachita Puri,Cashier,745
+1275,Onkar Jani,Inventory Executive,374
+1276,Faris Bhargava,Store Manager,1142
+1277,Udant Modi,Inventory Executive,1123
+1278,Ishwar Seth,Sales Executive,677
+1279,Jhalak Bahl,Sales Executive,1097
+1280,Urishilla Sant,Sales Executive,946
+1281,Ekantika Nagar,Cashier,141
+1282,Bhavini Shan,Store Manager,590
+1283,Aadi Jha,Store Manager,15
+1284,Aarav Bansal,Sales Executive,663
+1285,Chatresh Oak,Inventory Executive,699
+1286,Kritika Lalla,Sales Executive,238
+1287,Gagan Nayar,Store Manager,1068
+1288,Charvi Toor,Sales Executive,1026
+1289,Lakshit Dara,Cashier,266
+1290,Laban Mani,Sales Executive,202
+1291,Zayyan Rao,Sales Executive,306
+1292,Lucky Hayer,Cashier,650
+1293,Garima Krish,Cashier,1061
+1294,Hemangini Sibal,Cashier,262
+1295,Anmol Bala,Store Manager,146
+1296,Diya Mittal,Store Manager,560
+1297,Jagvi Singh,Inventory Executive,1099
+1298,Sneha Chand,Store Manager,438
+1299,Zilmil Arya,Store Manager,276
+1300,Nihal Pandey,Store Manager,207
+1301,Madhav Bahri,Store Manager,1177
+1302,Peter Dhawan,Sales Executive,581
+1303,Veer Wali,Inventory Executive,1114
+1304,Wazir Rao,Sales Executive,348
+1305,Nimrat Mani,Store Manager,126
+1306,Pallavi Sami,Sales Executive,241
+1307,Nathan Morar,Cashier,513
+1308,Parth Vasa,Inventory Executive,439
+1309,Gauri Srivastava,Store Manager,1060
+1310,Kashvi Varty,Sales Executive,387
+1311,Bhavya Pai,Sales Executive,101
+1312,Fitan Baria,Store Manager,945
+1313,Mohammed Arora,Inventory Executive,5
+1314,Priya Sinha,Inventory Executive,570
+1315,Vrishti Raman,Inventory Executive,211
+1316,Leela Gara,Store Manager,782
+1317,Unni Dara,Cashier,228
+1318,Mitesh Bhandari,Inventory Executive,471
+1319,Vinaya Solanki,Inventory Executive,789
+1320,Reva Sundaram,Inventory Executive,630
+1321,Om Prabhakar,Sales Executive,434
+1322,Gopal Mukhopadhyay,Inventory Executive,349
+1323,Tanveer Merchant,Cashier,89
+1324,Isaiah Dhillon,Cashier,1109
+1325,Chanchal Gara,Store Manager,1159
+1326,Gaurav Anand,Store Manager,970
+1327,Samar Zachariah,Cashier,1044
+1328,Jeremiah Pradhan,Store Manager,269
+1329,Ishanvi Boase,Store Manager,519
+1330,Michael Soman,Store Manager,1146
+1331,Udyati Seshadri,Inventory Executive,813
+1332,Jairaj Tandon,Inventory Executive,718
+1333,Owen Sarkar,Inventory Executive,677
+1334,Ayaan Nagy,Sales Executive,26
+1335,Darika Ahluwalia,Sales Executive,615
+1336,Wakeeta Dutt,Inventory Executive,280
+1337,Wriddhish Tripathi,Store Manager,1140
+1338,Naveen Viswanathan,Inventory Executive,643
+1339,Mohini Narasimhan,Sales Executive,1139
+1340,Megha Sarraf,Store Manager,154
+1341,Ekalinga Prashad,Store Manager,777
+1342,Yuvraj Deep,Sales Executive,448
+1343,Agastya Krish,Inventory Executive,975
+1344,Hiral Nath,Cashier,83
+1345,Owen Keer,Inventory Executive,1019
+1346,Deepa Choudhury,Cashier,741
+1347,Vedika Bobal,Inventory Executive,395
+1348,Mohini Karan,Sales Executive,1123
+1349,Damyanti Loyal,Store Manager,1187
+1350,Anirudh Acharya,Inventory Executive,371
+1351,Hitesh Sagar,Store Manager,248
+1352,Abhimanyu Samra,Cashier,211
+1353,Kevin Nadkarni,Cashier,360
+1354,Meghana Deol,Store Manager,180
+1355,Aachal Rama,Cashier,27
+1356,William Manda,Inventory Executive,1149
+1357,Kevin Parmer,Cashier,64
+1358,Ira Khanna,Sales Executive,494
+1359,Bahadurjit Sodhi,Store Manager,494
+1360,Tanvi Dugar,Sales Executive,906
+1361,Yuvraj Parmar,Store Manager,659
+1362,Suhani Gala,Store Manager,80
+1363,Jagvi Vora,Cashier,1130
+1364,Bakhshi Rao,Cashier,284
+1365,Onkar Varghese,Store Manager,292
+1366,Samarth Shan,Inventory Executive,316
+1367,Tanish Karan,Cashier,531
+1368,Dominic Yohannan,Sales Executive,438
+1369,Hemani Nazareth,Cashier,925
+1370,Ekaraj Murty,Store Manager,395
+1371,Azaan Thaker,Store Manager,351
+1372,Rushil Hans,Sales Executive,161
+1373,Mitali Kaur,Inventory Executive,590
+1374,Sachi Rajagopal,Cashier,159
+1375,Chavvi Vig,Sales Executive,848
+1376,Ekantika Bhagat,Cashier,234
+1377,Gaurangi Apte,Store Manager,497
+1378,Hamsini Walia,Cashier,173
+1379,Jagvi Vala,Cashier,528
+1380,Pratyush Padmanabhan,Inventory Executive,861
+1381,Charvi Grewal,Inventory Executive,405
+1382,Ronith Gupta,Sales Executive,825
+1383,Omaja Maharaj,Store Manager,1015
+1384,Liam Varghese,Store Manager,179
+1385,Veer Pradhan,Cashier,577
+1386,Warinder Hayre,Sales Executive,43
+1387,Agastya Sura,Inventory Executive,120
+1388,Devika Johal,Cashier,826
+1389,Onveer Raval,Sales Executive,121
+1390,Aayush Bhavsar,Sales Executive,628
+1391,Madhav Kari,Sales Executive,352
+1392,Leela Sarkar,Sales Executive,456
+1393,Tara Sood,Sales Executive,880
+1394,Eesha Choudhury,Cashier,684
+1395,Jagrati Sekhon,Inventory Executive,870
+1396,Kritika Jhaveri,Inventory Executive,966
+1397,Daniel Mander,Cashier,1135
+1398,Pallavi Dhawan,Inventory Executive,469
+1399,Advika Srinivas,Cashier,372
+1400,Nakul Balakrishnan,Store Manager,603
+1401,Yagnesh Ramakrishnan,Cashier,228
+1402,Ekiya Ramaswamy,Inventory Executive,80
+1403,Yuvraj Bhavsar,Sales Executive,582
+1404,Frado Kari,Inventory Executive,5
+1405,Nimrat Dora,Sales Executive,466
+1406,Niharika Chawla,Store Manager,938
+1407,Ucchal Babu,Cashier,650
+1408,Abeer Ahluwalia,Sales Executive,93
+1409,Rehaan Singh,Inventory Executive,72
+1410,Champak Sur,Store Manager,494
+1411,Aarush Devan,Store Manager,839
+1412,Mitali Patla,Inventory Executive,473
+1413,Ethan Dugal,Sales Executive,252
+1414,Lila Balan,Cashier,1043
+1415,Chakradhar Nazareth,Cashier,1023
+1416,Chandresh Babu,Sales Executive,694
+1417,Yash Garg,Sales Executive,553
+1418,Pranav Raman,Inventory Executive,798
+1419,Timothy Mittal,Store Manager,836
+1420,Chatresh Sandhu,Inventory Executive,850
+1421,Chameli Bir,Sales Executive,546
+1422,Vasatika Naidu,Cashier,524
+1423,Benjamin Butala,Sales Executive,730
+1424,Ekalinga Saxena,Cashier,882
+1425,Matthew Badal,Inventory Executive,971
+1426,Anvi Buch,Store Manager,283
+1427,Varsha Palla,Sales Executive,201
+1428,Darika Kunda,Inventory Executive,446
+1429,Onveer Randhawa,Inventory Executive,224
+1430,Ria Jayaraman,Sales Executive,234
+1431,Advik Zacharia,Sales Executive,880
+1432,Vasudha Kara,Inventory Executive,498
+1433,Anita Sani,Cashier,983
+1434,Wridesh Varty,Cashier,989
+1435,Tripti Goswami,Inventory Executive,875
+1436,Xavier Kulkarni,Inventory Executive,616
+1437,Ikshita Guha,Cashier,729
+1438,Benjamin Datta,Sales Executive,1111
+1439,Banjeet Mukherjee,Inventory Executive,899
+1440,Omaja Desai,Cashier,326
+1441,Jalsa Sarin,Inventory Executive,1171
+1442,Aditya Rattan,Store Manager,993
+1443,Finn Shanker,Cashier,888
+1444,Krishna Chauhan,Store Manager,909
+1445,Harish Konda,Inventory Executive,458
+1446,Nachiket Rajagopal,Cashier,46
+1447,Tripti Rajan,Store Manager,635
+1448,Dakshesh Majumdar,Sales Executive,165
+1449,Maanav Sahota,Sales Executive,170
+1450,Nandini Kalita,Store Manager,1032
+1451,Hritik Khatri,Inventory Executive,598
+1452,Irya Wadhwa,Sales Executive,416
+1453,Vincent Kaul,Cashier,314
+1454,Yash Kale,Cashier,314
+1455,Tejas Chandra,Cashier,1049
+1456,Wriddhish Mander,Cashier,821
+1457,Darpan Gupta,Sales Executive,1057
+1458,Oni Walla,Cashier,1092
+1459,Farhan Sule,Inventory Executive,53
+1460,Urmi Chand,Sales Executive,672
+1461,Yatan Borde,Cashier,467
+1462,Avi Suresh,Cashier,817
+1463,Manya Minhas,Inventory Executive,782
+1464,Lipika Lad,Store Manager,1189
+1465,Sai Contractor,Inventory Executive,681
+1466,Bhavini Puri,Sales Executive,572
+1467,Ranveer Pandit,Sales Executive,1131
+1468,Upadhriti Dutta,Inventory Executive,589
+1469,Siddharth Uppal,Sales Executive,1068
+1470,Ishani Goel,Cashier,423
+1471,Karan Karan,Store Manager,613
+1472,Omkaar Johal,Store Manager,547
+1473,Varsha Shankar,Cashier,470
+1474,Elijah Mandal,Cashier,34
+1475,Yug Mani,Cashier,108
+1476,Reyansh Joshi,Inventory Executive,593
+1477,Daksh Rout,Sales Executive,472
+1478,Hemang Ghosh,Store Manager,996
+1479,Gunbir Batra,Store Manager,168
+1480,Warhi Borah,Store Manager,922
+1481,Urmi Kuruvilla,Inventory Executive,1047
+1482,Caleb Rout,Inventory Executive,901
+1483,Rachana Gara,Store Manager,549
+1484,Urmi Raj,Store Manager,383
+1485,Onkar Bawa,Store Manager,653
+1486,Mason Kadakia,Cashier,735
+1487,Qasim Dugar,Store Manager,56
+1488,Advay Wable,Store Manager,425
+1489,Garima Kohli,Sales Executive,790
+1490,Janani Oak,Sales Executive,1120
+1491,Unnati Tripathi,Cashier,1062
+1492,Kevin Dyal,Sales Executive,629
+1493,Vanya Thaker,Cashier,812
+1494,Ansh Kibe,Store Manager,585
+1495,Faris Kumar,Store Manager,565
+1496,Omisha Parmar,Sales Executive,745
+1497,Adya Dayal,Store Manager,320
+1498,Yasti Raj,Cashier,224
+1499,Urvashi Thaker,Sales Executive,332
+1500,Avni Grover,Sales Executive,651
