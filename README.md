@@ -67,7 +67,7 @@ Retail-Sales-SQL-Project/
 
 # 📊 Database Schema (ER Diagram)
 
-![ER Diagram](documentation/er_diagram.png)
+![ER Diagram](documentation/ER_DIAGRAM.png)
 
 ---
 
